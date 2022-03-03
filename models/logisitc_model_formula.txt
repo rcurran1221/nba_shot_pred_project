@@ -1,0 +1,65 @@
+0.6590233213335419
+0.005994842503189409
+[0.57018828]
+action_type_Slam Dunk Shot: 1.6443717738271633
+action_type_Jump Shot: -1.4820341764458718
+shot_zone_area_Back Court(BC): -1.1801238763104225
+action_type_Tip Shot: -1.0546175376074225
+action_type_Driving Slam Dunk Shot: 1.0365182918457712
+action_type_Driving Jump shot: -0.9061752252950263
+action_type_Driving Dunk Shot: 0.8958793957619477
+action_type_Dunk Shot: 0.8805572079447539
+action_type_Hook Shot: -0.8762899279716369
+action_type_Layup Shot: -0.8623587823453557
+action_type_Running Jump Shot: -0.8532846771069941
+action_type_Alley Oop Dunk Shot: 0.8198175517066114
+action_type_Turnaround Jump Shot: -0.8164166060435374
+action_type_Running Slam Dunk Shot: 0.728511411038211
+action_type_Putback Dunk Shot: 0.6474450932848296
+action_type_Running Dunk Shot: 0.6069081518707325
+action_type_Fadeaway Jump Shot: -0.5953000577759284
+action_type_Driving Finger Roll Layup Shot: 0.5737062235605719
+action_type_Step Back Jump shot: -0.5442419210789153
+action_type_Turnaround Fadeaway shot: -0.5430840295127811
+action_type_Putback Slam Dunk Shot: 0.5365820927907234
+action_type_Reverse Dunk Shot: 0.43775096039046996
+action_type_Floating Jump shot: -0.4217718162682624
+action_type_Turnaround Hook Shot: -0.4011757445887817
+action_type_Running Hook Shot: -0.39402526391455567
+action_type_Pullup Jump shot: -0.3908236953194329
+action_type_Driving Hook Shot: -0.36849874105147506
+action_type_Turnaround Bank Hook Shot: 0.3648598849542973
+action_type_Driving Bank shot: 0.35729712534627117
+action_type_Jump Hook Shot: -0.3120551232857767
+shot_zone_area_Right Side(R): 0.2800986104376295
+shot_zone_area_Right Side Center(RC): 0.27297097210828714
+action_type_Putback Layup Shot: 0.26687679463324115
+close_def_dist: 0.2543153040348289
+shot_zone_area_Left Side Center(LC): 0.2532015944018947
+shot_zone_area_Left Side(L): 0.23040899462031053
+action_type_Running Finger Roll Layup Shot: 0.22591938055061525
+action_type_Finger Roll Layup Shot: 0.20498773257524655
+action_type_Alley Oop Layup shot: -0.19912570690602874
+action_type_Reverse Layup Shot: -0.1904898089015672
+action_type_Driving Bank Hook Shot: 0.17118019531793602
+shot_dist: -0.16832181528777912
+touch_time: -0.16605523530914368
+action_type_Fadeaway Bank shot: 0.15925072860305245
+action_type_Hook Bank Shot: 0.15851024773760608
+action_type_Pullup Bank shot: -0.15660270475114993
+shot_zone_area_Center(C): 0.15131096219363016
+action_type_Reverse Slam Dunk Shot: 0.1508798823446321
+action_type_Driving Layup Shot: 0.15024091188053365
+action_type_Turnaround Bank shot: 0.1422607405468942
+action_type_Jump Bank Hook Shot: 0.11806935043117675
+action_type_Running Layup Shot: -0.10436458390164566
+action_type_Jump Bank Shot: -0.09321136861389774
+action_type_Running Bank shot: 0.0901367403607396
+action_type_Running Reverse Layup Shot: 0.08408189306827539
+pos_time_remaining: 0.07560042990348968
+action_type_Running Bank Hook Shot: 0.05961278937228738
+action_type_Running Tip Shot: 0.03875216076019218
+shot_number: 0.02849267429753504
+action_type_Driving Reverse Layup Shot: 0.02285004363260197
+period: -0.019678133373452904
+dribbles: 0.019634686493647833

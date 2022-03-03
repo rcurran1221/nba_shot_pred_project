@@ -1,0 +1,6 @@
+*.Rdata
+*.Rhistory
+/models/.vs
+/.vs/CSE6242-Project/v16
+/.vs
+.vscode/settings.json

@@ -1,0 +1,240 @@
+grid_type,game_id,game_event_id,player_id,player_name,team_id,team_name,period,minutes_remaining,seconds_remaining,event_type,action_type,shot_type,shot_zone_basic,shot_zone_area,shot_zone_range,shot_distance,loc_x,loc_y,shot_attempted_flag,shot_made_flag,game_date,htm,vtm,shot_made_numeric,shot_value
+Shot Chart Detail,0021400085,35,2617,Udonis Haslem,1610612748,Miami Heat,1,6,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0.3,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,43,2617,Udonis Haslem,1610612748,Miami Heat,1,5,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.4,0.1,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,53,2617,Udonis Haslem,1610612748,Miami Heat,1,4,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,316,2617,Udonis Haslem,1610612748,Miami Heat,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.7,-0.6,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,340,2617,Udonis Haslem,1610612748,Miami Heat,3,2,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,343,2617,Udonis Haslem,1610612748,Miami Heat,3,1,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,1.1,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400094,108,2617,Udonis Haslem,1610612748,Miami Heat,1,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,16.9,1.2,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,122,2617,Udonis Haslem,1610612748,Miami Heat,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.7,3.1,1,missed,2014-11-09,DAL,MIA,0,2
+Shot Chart Detail,0021400094,437,2617,Udonis Haslem,1610612748,Miami Heat,4,8,21,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400124,194,2617,Udonis Haslem,1610612748,Miami Heat,2,7,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,198,2617,Udonis Haslem,1610612748,Miami Heat,2,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0.2,15.7,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,217,2617,Udonis Haslem,1610612748,Miami Heat,2,4,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1.9,0.7,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,251,2617,Udonis Haslem,1610612748,Miami Heat,2,1,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.7,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,400,2617,Udonis Haslem,1610612748,Miami Heat,4,9,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.3,0.3,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400143,145,2617,Udonis Haslem,1610612748,Miami Heat,2,7,49,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3.9,0.6,1,made,2014-11-16,MIA,MIL,1,2
+Shot Chart Detail,0021400143,159,2617,Udonis Haslem,1610612748,Miami Heat,2,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,17.9,0.1,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400149,114,2617,Udonis Haslem,1610612748,Miami Heat,2,11,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.2,1.7,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,116,2617,Udonis Haslem,1610612748,Miami Heat,2,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.5,1.2,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,135,2617,Udonis Haslem,1610612748,Miami Heat,2,9,54,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.1,3.1,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,416,2617,Udonis Haslem,1610612748,Miami Heat,4,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.4,1.7,1,made,2014-11-17,BKN,MIA,1,2
+Shot Chart Detail,0021400149,426,2617,Udonis Haslem,1610612748,Miami Heat,4,6,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-6.9,13.5,1,made,2014-11-17,BKN,MIA,1,2
+Shot Chart Detail,0021400149,430,2617,Udonis Haslem,1610612748,Miami Heat,4,5,50,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.6,0,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,449,2617,Udonis Haslem,1610612748,Miami Heat,4,3,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0.4,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400195,90,2617,Udonis Haslem,1610612748,Miami Heat,1,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-12.7,9.9,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,109,2617,Udonis Haslem,1610612748,Miami Heat,2,10,56,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2.9,0.9,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,118,2617,Udonis Haslem,1610612748,Miami Heat,2,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.9,0,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400206,145,2617,Udonis Haslem,1610612748,Miami Heat,2,9,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-1.5,19.7,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,152,2617,Udonis Haslem,1610612748,Miami Heat,2,9,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,343,2617,Udonis Haslem,1610612748,Miami Heat,3,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-8.6,14,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,372,2617,Udonis Haslem,1610612748,Miami Heat,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4.5,3.6,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,374,2617,Udonis Haslem,1610612748,Miami Heat,3,0,41,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2.7,2.5,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,449,2617,Udonis Haslem,1610612748,Miami Heat,4,6,25,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.3,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400245,109,2617,Udonis Haslem,1610612748,Miami Heat,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-9.5,14.8,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,113,2617,Udonis Haslem,1610612748,Miami Heat,1,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0.3,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400245,168,2617,Udonis Haslem,1610612748,Miami Heat,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,12.8,-0.2,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,401,2617,Udonis Haslem,1610612748,Miami Heat,4,10,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400250,375,2617,Udonis Haslem,1610612748,Miami Heat,3,0,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,1.1,1,missed,2014-12-01,WAS,MIA,0,2
+Shot Chart Detail,0021400250,394,2617,Udonis Haslem,1610612748,Miami Heat,4,10,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-15.5,10.7,1,missed,2014-12-01,WAS,MIA,0,2
+Shot Chart Detail,0021400267,392,2617,Udonis Haslem,1610612748,Miami Heat,4,10,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400296,81,2617,Udonis Haslem,1610612748,Miami Heat,1,1,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.9,0,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400296,290,2617,Udonis Haslem,1610612748,Miami Heat,3,0,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.9,0.6,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400296,303,2617,Udonis Haslem,1610612748,Miami Heat,4,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.3,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400313,319,2617,Udonis Haslem,1610612748,Miami Heat,3,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.2,1.5,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,344,2617,Udonis Haslem,1610612748,Miami Heat,4,11,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.6,-0.3,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,348,2617,Udonis Haslem,1610612748,Miami Heat,4,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.4,0.1,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,390,2617,Udonis Haslem,1610612748,Miami Heat,4,5,13,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1.3,4.8,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,394,2617,Udonis Haslem,1610612748,Miami Heat,4,4,54,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.2,1.4,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,396,2617,Udonis Haslem,1610612748,Miami Heat,4,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0.4,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,408,2617,Udonis Haslem,1610612748,Miami Heat,4,4,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0.6,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400325,129,2617,Udonis Haslem,1610612748,Miami Heat,2,10,35,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.6,0,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400325,169,2617,Udonis Haslem,1610612748,Miami Heat,2,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19.5,1.7,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400338,71,2617,Udonis Haslem,1610612748,Miami Heat,1,2,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.8,0,1,missed,2014-12-12,UTA,MIA,0,2
+Shot Chart Detail,0021400338,119,2617,Udonis Haslem,1610612748,Miami Heat,2,11,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2.6,-0.2,1,missed,2014-12-12,UTA,MIA,0,2
+Shot Chart Detail,0021400338,124,2617,Udonis Haslem,1610612748,Miami Heat,2,11,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0.3,1,missed,2014-12-12,UTA,MIA,0,2
+Shot Chart Detail,0021400338,126,2617,Udonis Haslem,1610612748,Miami Heat,2,11,1,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0.2,4.4,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400349,2,2617,Udonis Haslem,1610612748,Miami Heat,1,11,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,3,1,missed,2014-12-14,MIA,CHI,0,2
+Shot Chart Detail,0021400364,51,2617,Udonis Haslem,1610612748,Miami Heat,1,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,14.4,2,1,missed,2014-12-16,BKN,MIA,0,2
+Shot Chart Detail,0021400364,61,2617,Udonis Haslem,1610612748,Miami Heat,1,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.3,0,1,made,2014-12-16,BKN,MIA,1,2
+Shot Chart Detail,0021400364,313,2617,Udonis Haslem,1610612748,Miami Heat,3,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2.7,-0.3,1,made,2014-12-16,BKN,MIA,1,2
+Shot Chart Detail,0021400364,323,2617,Udonis Haslem,1610612748,Miami Heat,3,5,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1.1,5.8,1,made,2014-12-16,BKN,MIA,1,2
+Shot Chart Detail,0021400364,326,2617,Udonis Haslem,1610612748,Miami Heat,3,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-8.6,15.3,1,missed,2014-12-16,BKN,MIA,0,2
+Shot Chart Detail,0021400364,338,2617,Udonis Haslem,1610612748,Miami Heat,3,3,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,2.2,1,missed,2014-12-16,BKN,MIA,0,2
+Shot Chart Detail,0021400373,70,2617,Udonis Haslem,1610612748,Miami Heat,1,3,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5.8,14.3,1,missed,2014-12-17,MIA,UTA,0,2
+Shot Chart Detail,0021400373,395,2617,Udonis Haslem,1610612748,Miami Heat,3,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,17.2,0.7,1,missed,2014-12-17,MIA,UTA,0,2
+Shot Chart Detail,0021400373,445,2617,Udonis Haslem,1610612748,Miami Heat,4,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4.1,17,1,missed,2014-12-17,MIA,UTA,0,2
+Shot Chart Detail,0021400373,456,2617,Udonis Haslem,1610612748,Miami Heat,4,7,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3.1,1.2,1,made,2014-12-17,MIA,UTA,1,2
+Shot Chart Detail,0021400388,91,2617,Udonis Haslem,1610612748,Miami Heat,1,2,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.6,1.4,1,made,2014-12-19,MIA,WAS,1,2
+Shot Chart Detail,0021400388,129,2617,Udonis Haslem,1610612748,Miami Heat,2,10,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1.3,15.9,1,made,2014-12-19,MIA,WAS,1,2
+Shot Chart Detail,0021400388,137,2617,Udonis Haslem,1610612748,Miami Heat,2,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.7,0.3,1,made,2014-12-19,MIA,WAS,1,2
+Shot Chart Detail,0021400388,149,2617,Udonis Haslem,1610612748,Miami Heat,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-10,12.9,1,made,2014-12-19,MIA,WAS,1,2
+Shot Chart Detail,0021400388,381,2617,Udonis Haslem,1610612748,Miami Heat,4,10,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-12-19,MIA,WAS,1,2
+Shot Chart Detail,0021400404,57,2617,Udonis Haslem,1610612748,Miami Heat,1,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2.4,16.4,1,made,2014-12-21,MIA,BOS,1,2
+Shot Chart Detail,0021400404,93,2617,Udonis Haslem,1610612748,Miami Heat,1,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.1,0.7,1,made,2014-12-21,MIA,BOS,1,2
+Shot Chart Detail,0021400404,130,2617,Udonis Haslem,1610612748,Miami Heat,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,8.1,10.5,1,made,2014-12-21,MIA,BOS,1,2
+Shot Chart Detail,0021400404,220,2617,Udonis Haslem,1610612748,Miami Heat,2,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-1,17.8,1,missed,2014-12-21,MIA,BOS,0,2
+Shot Chart Detail,0021400422,112,2617,Udonis Haslem,1610612748,Miami Heat,1,0,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.1,0.1,1,made,2014-12-23,MIA,PHI,1,2
+Shot Chart Detail,0021400422,383,2617,Udonis Haslem,1610612748,Miami Heat,3,3,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,7.8,13.8,1,missed,2014-12-23,MIA,PHI,0,2
+Shot Chart Detail,0021400422,394,2617,Udonis Haslem,1610612748,Miami Heat,3,2,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0.6,1,made,2014-12-23,MIA,PHI,1,2
+Shot Chart Detail,0021400422,462,2617,Udonis Haslem,1610612748,Miami Heat,4,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.8,0.6,1,missed,2014-12-23,MIA,PHI,0,2
+Shot Chart Detail,0021400429,106,2617,Udonis Haslem,1610612748,Miami Heat,1,1,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.7,3.9,1,made,2014-12-25,MIA,CLE,1,2
+Shot Chart Detail,0021400429,356,2617,Udonis Haslem,1610612748,Miami Heat,3,3,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2.9,3,1,missed,2014-12-25,MIA,CLE,0,2
+Shot Chart Detail,0021400429,395,2617,Udonis Haslem,1610612748,Miami Heat,3,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,0.4,1,made,2014-12-25,MIA,CLE,1,2
+Shot Chart Detail,0021400429,414,2617,Udonis Haslem,1610612748,Miami Heat,4,10,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,0.9,1,made,2014-12-25,MIA,CLE,1,2
+Shot Chart Detail,0021400446,162,2617,Udonis Haslem,1610612748,Miami Heat,2,4,53,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,6.7,14.9,1,missed,2014-12-27,MIA,MEM,0,2
+Shot Chart Detail,0021400559,390,2617,Udonis Haslem,1610612748,Miami Heat,4,10,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.9,0.9,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,395,2617,Udonis Haslem,1610612748,Miami Heat,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,12.6,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,406,2617,Udonis Haslem,1610612748,Miami Heat,4,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,19.1,0.6,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,412,2617,Udonis Haslem,1610612748,Miami Heat,4,7,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5.4,-0.2,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400598,47,2617,Udonis Haslem,1610612748,Miami Heat,1,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,14.5,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,69,2617,Udonis Haslem,1610612748,Miami Heat,1,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-2,14.2,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,398,2617,Udonis Haslem,1610612748,Miami Heat,4,8,54,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,458,2617,Udonis Haslem,1610612748,Miami Heat,4,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.3,1.4,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,475,2617,Udonis Haslem,1610612748,Miami Heat,4,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.6,0.9,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400625,88,2617,Udonis Haslem,1610612748,Miami Heat,1,3,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1.5,1.4,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,370,2617,Udonis Haslem,1610612748,Miami Heat,3,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2.3,1.7,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400644,117,2617,Udonis Haslem,1610612748,Miami Heat,1,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.3,0.9,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,248,2617,Udonis Haslem,1610612748,Miami Heat,2,1,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400677,83,2617,Udonis Haslem,1610612748,Miami Heat,1,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,383,2617,Udonis Haslem,1610612748,Miami Heat,4,10,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0.2,14.2,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400727,200,2617,Udonis Haslem,1610612748,Miami Heat,2,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-17.4,6.6,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,205,2617,Udonis Haslem,1610612748,Miami Heat,2,3,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-14.3,6.9,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,461,2617,Udonis Haslem,1610612748,Miami Heat,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,14.9,3.4,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400757,73,2617,Udonis Haslem,1610612748,Miami Heat,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-15.5,1.4,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,75,2617,Udonis Haslem,1610612748,Miami Heat,1,3,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5.8,4.4,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,84,2617,Udonis Haslem,1610612748,Miami Heat,1,2,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.1,-0.2,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400777,516,2617,Udonis Haslem,1610612748,Miami Heat,4,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.3,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,517,2617,Udonis Haslem,1610612748,Miami Heat,4,1,26,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.8,0,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,520,2617,Udonis Haslem,1610612748,Miami Heat,4,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.9,0.7,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400796,195,2617,Udonis Haslem,1610612748,Miami Heat,2,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,20.2,-1.9,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,204,2617,Udonis Haslem,1610612748,Miami Heat,2,3,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.1,-1,1,made,2015-02-11,CLE,MIA,1,2
+Shot Chart Detail,0021400796,213,2617,Udonis Haslem,1610612748,Miami Heat,2,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0.2,17,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400807,3,2617,Udonis Haslem,1610612748,Miami Heat,1,11,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-6.2,15.7,1,made,2015-02-20,NYK,MIA,1,2
+Shot Chart Detail,0021400807,25,2617,Udonis Haslem,1610612748,Miami Heat,1,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2.1,16.8,1,missed,2015-02-20,NYK,MIA,0,2
+Shot Chart Detail,0021400807,285,2617,Udonis Haslem,1610612748,Miami Heat,3,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-0.2,1,made,2015-02-20,NYK,MIA,1,2
+Shot Chart Detail,0021400807,529,2617,Udonis Haslem,1610612748,Miami Heat,4,2,38,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-02-20,NYK,MIA,1,2
+Shot Chart Detail,0021400807,534,2617,Udonis Haslem,1610612748,Miami Heat,4,1,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-14.7,10.7,1,made,2015-02-20,NYK,MIA,1,2
+Shot Chart Detail,0021400807,536,2617,Udonis Haslem,1610612748,Miami Heat,4,0,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,-24.2,0,1,made,2015-02-20,NYK,MIA,1,3
+Shot Chart Detail,0021400817,9,2617,Udonis Haslem,1610612748,Miami Heat,1,10,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23,1.9,1,missed,2015-02-21,MIA,NOP,0,3
+Shot Chart Detail,0021400817,459,2617,Udonis Haslem,1610612748,Miami Heat,4,8,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3.6,2.2,1,made,2015-02-21,MIA,NOP,1,2
+Shot Chart Detail,0021400817,514,2617,Udonis Haslem,1610612748,Miami Heat,4,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2.6,18.9,1,made,2015-02-21,MIA,NOP,1,2
+Shot Chart Detail,0021400817,562,2617,Udonis Haslem,1610612748,Miami Heat,4,1,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,22.9,0.9,1,missed,2015-02-21,MIA,NOP,0,3
+Shot Chart Detail,0021400830,14,2617,Udonis Haslem,1610612748,Miami Heat,1,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-15.7,11.5,1,missed,2015-02-23,MIA,PHI,0,2
+Shot Chart Detail,0021400830,19,2617,Udonis Haslem,1610612748,Miami Heat,1,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.4,0,1,missed,2015-02-23,MIA,PHI,0,2
+Shot Chart Detail,0021400830,257,2617,Udonis Haslem,1610612748,Miami Heat,3,10,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6.4,4.2,1,missed,2015-02-23,MIA,PHI,0,2
+Shot Chart Detail,0021400830,315,2617,Udonis Haslem,1610612748,Miami Heat,3,5,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5.1,15.9,1,missed,2015-02-23,MIA,PHI,0,2
+Shot Chart Detail,0021400830,482,2617,Udonis Haslem,1610612748,Miami Heat,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-5.3,17.5,1,made,2015-02-23,MIA,PHI,1,2
+Shot Chart Detail,0021400830,527,2617,Udonis Haslem,1610612748,Miami Heat,4,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.6,1,made,2015-02-23,MIA,PHI,1,2
+Shot Chart Detail,0021400842,21,2617,Udonis Haslem,1610612748,Miami Heat,1,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-15.7,8.8,1,made,2015-02-25,ORL,MIA,1,2
+Shot Chart Detail,0021400842,30,2617,Udonis Haslem,1610612748,Miami Heat,1,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-10.3,13.7,1,missed,2015-02-25,ORL,MIA,0,2
+Shot Chart Detail,0021400842,291,2617,Udonis Haslem,1610612748,Miami Heat,3,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-0.2,18.1,1,made,2015-02-25,ORL,MIA,1,2
+Shot Chart Detail,0021400842,295,2617,Udonis Haslem,1610612748,Miami Heat,3,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-0.9,16.5,1,missed,2015-02-25,ORL,MIA,0,2
+Shot Chart Detail,0021400865,242,2617,Udonis Haslem,1610612748,Miami Heat,3,10,51,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.9,0.9,1,made,2015-02-27,NOP,MIA,1,2
+Shot Chart Detail,0021400865,297,2617,Udonis Haslem,1610612748,Miami Heat,3,4,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.7,1.4,1,missed,2015-02-27,NOP,MIA,0,2
+Shot Chart Detail,0021400871,421,2617,Udonis Haslem,1610612748,Miami Heat,4,9,5,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.4,0.6,1,made,2015-02-28,MIA,ATL,1,2
+Shot Chart Detail,0021400905,4,2617,Udonis Haslem,1610612748,Miami Heat,1,11,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4.3,16.4,1,missed,2015-03-04,MIA,LAL,0,2
+Shot Chart Detail,0021400905,299,2617,Udonis Haslem,1610612748,Miami Heat,3,7,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-0.4,19.8,1,missed,2015-03-04,MIA,LAL,0,2
+Shot Chart Detail,0021400905,304,2617,Udonis Haslem,1610612748,Miami Heat,3,6,54,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.4,0,1,missed,2015-03-04,MIA,LAL,0,2
+Shot Chart Detail,0021400905,315,2617,Udonis Haslem,1610612748,Miami Heat,3,6,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-03-04,MIA,LAL,1,2
+Shot Chart Detail,0021400920,11,2617,Udonis Haslem,1610612748,Miami Heat,1,10,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-17,10.5,1,missed,2015-03-06,WAS,MIA,0,2
+Shot Chart Detail,0021400920,16,2617,Udonis Haslem,1610612748,Miami Heat,1,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-0.7,14.6,1,made,2015-03-06,WAS,MIA,1,2
+Shot Chart Detail,0021400920,53,2617,Udonis Haslem,1610612748,Miami Heat,1,6,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0.4,16,1,missed,2015-03-06,WAS,MIA,0,2
+Shot Chart Detail,0021400920,282,2617,Udonis Haslem,1610612748,Miami Heat,3,10,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2.9,4.2,1,missed,2015-03-06,WAS,MIA,0,2
+Shot Chart Detail,0021400920,284,2617,Udonis Haslem,1610612748,Miami Heat,3,10,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,1.5,1,made,2015-03-06,WAS,MIA,1,2
+Shot Chart Detail,0021400920,292,2617,Udonis Haslem,1610612748,Miami Heat,3,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,14.1,10.2,1,made,2015-03-06,WAS,MIA,1,2
+Shot Chart Detail,0021400920,302,2617,Udonis Haslem,1610612748,Miami Heat,3,7,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3.6,5.3,1,missed,2015-03-06,WAS,MIA,0,2
+Shot Chart Detail,0021400920,341,2617,Udonis Haslem,1610612748,Miami Heat,3,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.6,1.5,1,missed,2015-03-06,WAS,MIA,0,2
+Shot Chart Detail,0021400920,431,2617,Udonis Haslem,1610612748,Miami Heat,4,7,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.7,0.1,1,missed,2015-03-06,WAS,MIA,0,2
+Shot Chart Detail,0021400925,5,2617,Udonis Haslem,1610612748,Miami Heat,1,11,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-13.6,9.9,1,missed,2015-03-07,MIA,SAC,0,2
+Shot Chart Detail,0021400925,147,2617,Udonis Haslem,1610612748,Miami Heat,2,9,45,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5.9,2.2,1,missed,2015-03-07,MIA,SAC,0,2
+Shot Chart Detail,0021400925,193,2617,Udonis Haslem,1610612748,Miami Heat,2,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.8,0.6,1,missed,2015-03-07,MIA,SAC,0,2
+Shot Chart Detail,0021400955,106,2617,Udonis Haslem,1610612748,Miami Heat,1,1,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.7,0.3,1,made,2015-03-11,MIA,BKN,1,2
+Shot Chart Detail,0021400955,138,2617,Udonis Haslem,1610612748,Miami Heat,2,11,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,1.2,1,made,2015-03-11,MIA,BKN,1,2
+Shot Chart Detail,0021400955,141,2617,Udonis Haslem,1610612748,Miami Heat,2,11,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,24.2,0.3,1,missed,2015-03-11,MIA,BKN,0,3
+Shot Chart Detail,0021400955,160,2617,Udonis Haslem,1610612748,Miami Heat,2,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3.6,16.8,1,missed,2015-03-11,MIA,BKN,0,2
+Shot Chart Detail,0021400955,166,2617,Udonis Haslem,1610612748,Miami Heat,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,18.7,2.2,1,missed,2015-03-11,MIA,BKN,0,2
+Shot Chart Detail,0021400955,198,2617,Udonis Haslem,1610612748,Miami Heat,2,6,50,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.1,0,1,missed,2015-03-11,MIA,BKN,0,2
+Shot Chart Detail,0021400955,297,2617,Udonis Haslem,1610612748,Miami Heat,2,0,11,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.9,1,missed,2015-03-11,MIA,BKN,0,2
+Shot Chart Detail,0021400955,298,2617,Udonis Haslem,1610612748,Miami Heat,2,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.4,0,1,missed,2015-03-11,MIA,BKN,0,2
+Shot Chart Detail,0021400955,492,2617,Udonis Haslem,1610612748,Miami Heat,4,7,16,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,missed,2015-03-11,MIA,BKN,0,2
+Shot Chart Detail,0021401007,9,2617,Udonis Haslem,1610612748,Miami Heat,1,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4.7,17.2,1,made,2015-03-18,MIA,POR,1,2
+Shot Chart Detail,0021401007,19,2617,Udonis Haslem,1610612748,Miami Heat,1,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-12.5,13.7,1,missed,2015-03-18,MIA,POR,0,2
+Shot Chart Detail,0021401007,282,2617,Udonis Haslem,1610612748,Miami Heat,3,7,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.3,0,1,made,2015-03-18,MIA,POR,1,3
+Shot Chart Detail,0021401007,344,2617,Udonis Haslem,1610612748,Miami Heat,3,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,-20.9,0.9,1,made,2015-03-18,MIA,POR,1,2
+Shot Chart Detail,0021401024,9,2617,Udonis Haslem,1610612748,Miami Heat,1,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,10.9,13.1,1,missed,2015-03-20,MIA,DEN,0,2
+Shot Chart Detail,0021401024,16,2617,Udonis Haslem,1610612748,Miami Heat,1,9,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.3,1.4,1,missed,2015-03-20,MIA,DEN,0,3
+Shot Chart Detail,0021401024,254,2617,Udonis Haslem,1610612748,Miami Heat,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-10.2,13.4,1,made,2015-03-20,MIA,DEN,1,2
+Shot Chart Detail,0021401024,277,2617,Udonis Haslem,1610612748,Miami Heat,3,8,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-03-20,MIA,DEN,1,2
+Shot Chart Detail,0021401024,285,2617,Udonis Haslem,1610612748,Miami Heat,3,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-0.4,16.4,1,made,2015-03-20,MIA,DEN,1,2
+Shot Chart Detail,0021401038,19,2617,Udonis Haslem,1610612748,Miami Heat,1,9,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,12.3,1,missed,2015-03-22,OKC,MIA,0,2
+Shot Chart Detail,0021401038,38,2617,Udonis Haslem,1610612748,Miami Heat,1,7,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,17.5,2,1,missed,2015-03-22,OKC,MIA,0,2
+Shot Chart Detail,0021401038,68,2617,Udonis Haslem,1610612748,Miami Heat,1,5,25,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.7,0,1,missed,2015-03-22,OKC,MIA,0,2
+Shot Chart Detail,0021401038,74,2617,Udonis Haslem,1610612748,Miami Heat,1,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-1.7,19.4,1,missed,2015-03-22,OKC,MIA,0,2
+Shot Chart Detail,0021401038,309,2617,Udonis Haslem,1610612748,Miami Heat,3,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16,1.1,1,made,2015-03-22,OKC,MIA,1,2
+Shot Chart Detail,0021401038,319,2617,Udonis Haslem,1610612748,Miami Heat,3,8,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5.1,14.9,1,made,2015-03-22,OKC,MIA,1,2
+Shot Chart Detail,0021401038,357,2617,Udonis Haslem,1610612748,Miami Heat,3,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.2,0.4,1,made,2015-03-22,OKC,MIA,1,2
+Shot Chart Detail,0021401038,371,2617,Udonis Haslem,1610612748,Miami Heat,3,2,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.6,0,1,missed,2015-03-22,OKC,MIA,0,2
+Shot Chart Detail,0021401055,44,2617,Udonis Haslem,1610612748,Miami Heat,1,11,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,14,10.8,1,missed,2015-03-24,MIL,MIA,0,2
+Shot Chart Detail,0021401055,23,2617,Udonis Haslem,1610612748,Miami Heat,1,7,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.4,-0.5,1,missed,2015-03-24,MIL,MIA,0,2
+Shot Chart Detail,0021401055,275,2617,Udonis Haslem,1610612748,Miami Heat,3,11,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.6,1,missed,2015-03-24,MIL,MIA,0,2
+Shot Chart Detail,0021401064,3,2617,Udonis Haslem,1610612748,Miami Heat,1,11,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1.3,18.6,1,missed,2015-03-25,BOS,MIA,0,2
+Shot Chart Detail,0021401064,41,2617,Udonis Haslem,1610612748,Miami Heat,1,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.4,-1.1,1,made,2015-03-25,BOS,MIA,1,2
+Shot Chart Detail,0021401064,239,2617,Udonis Haslem,1610612748,Miami Heat,2,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,-0.5,1,made,2015-03-25,BOS,MIA,1,2
+Shot Chart Detail,0021401064,269,2617,Udonis Haslem,1610612748,Miami Heat,2,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.4,0,1,made,2015-03-25,BOS,MIA,1,2
+Shot Chart Detail,0021401064,301,2617,Udonis Haslem,1610612748,Miami Heat,3,9,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-3.1,16.4,1,missed,2015-03-25,BOS,MIA,0,2
+Shot Chart Detail,0021401064,333,2617,Udonis Haslem,1610612748,Miami Heat,3,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.7,0.7,1,missed,2015-03-25,BOS,MIA,0,2
+Shot Chart Detail,0021401064,338,2617,Udonis Haslem,1610612748,Miami Heat,3,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-0.2,1,made,2015-03-25,BOS,MIA,1,2
+Shot Chart Detail,0021401064,388,2617,Udonis Haslem,1610612748,Miami Heat,3,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,0.1,1,made,2015-03-25,BOS,MIA,1,2
+Shot Chart Detail,0021401064,442,2617,Udonis Haslem,1610612748,Miami Heat,4,11,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,17.1,0.9,1,missed,2015-03-25,BOS,MIA,0,2
+Shot Chart Detail,0021401077,48,2617,Udonis Haslem,1610612748,Miami Heat,1,5,52,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,missed,2015-03-27,ATL,MIA,0,2
+Shot Chart Detail,0021401077,299,2617,Udonis Haslem,1610612748,Miami Heat,3,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,8.6,8,1,made,2015-03-27,ATL,MIA,1,2
+Shot Chart Detail,0021401077,489,2617,Udonis Haslem,1610612748,Miami Heat,4,1,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,0,1,made,2015-03-27,ATL,MIA,1,2
+Shot Chart Detail,0021401096,12,2617,Udonis Haslem,1610612748,Miami Heat,1,9,55,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.1,0.6,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,37,2617,Udonis Haslem,1610612748,Miami Heat,1,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-13.8,3.7,1,missed,2015-03-29,MIA,DET,0,2
+Shot Chart Detail,0021401096,74,2617,Udonis Haslem,1610612748,Miami Heat,1,3,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.1,1.2,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,199,2617,Udonis Haslem,1610612748,Miami Heat,2,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.4,1.4,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,216,2617,Udonis Haslem,1610612748,Miami Heat,2,3,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.7,1.4,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,235,2617,Udonis Haslem,1610612748,Miami Heat,2,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7.9,0,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,251,2617,Udonis Haslem,1610612748,Miami Heat,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.4,0.1,1,missed,2015-03-29,MIA,DET,0,3
+Shot Chart Detail,0021401096,267,2617,Udonis Haslem,1610612748,Miami Heat,3,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.4,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,298,2617,Udonis Haslem,1610612748,Miami Heat,3,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0.2,17,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401096,330,2617,Udonis Haslem,1610612748,Miami Heat,3,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-8.6,9.4,1,missed,2015-03-29,MIA,DET,0,2
+Shot Chart Detail,0021401096,348,2617,Udonis Haslem,1610612748,Miami Heat,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3.8,16,1,missed,2015-03-29,MIA,DET,0,2
+Shot Chart Detail,0021401096,408,2617,Udonis Haslem,1610612748,Miami Heat,4,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0.8,14.5,1,missed,2015-03-29,MIA,DET,0,2
+Shot Chart Detail,0021401096,450,2617,Udonis Haslem,1610612748,Miami Heat,4,1,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-03-29,MIA,DET,1,2
+Shot Chart Detail,0021401139,3,2617,Udonis Haslem,1610612748,Miami Heat,1,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-5.4,19.4,1,made,2015-04-04,DET,MIA,1,2
+Shot Chart Detail,0021401139,11,2617,Udonis Haslem,1610612748,Miami Heat,1,9,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,-24.1,0.7,1,missed,2015-04-04,DET,MIA,0,3
+Shot Chart Detail,0021401139,31,2617,Udonis Haslem,1610612748,Miami Heat,1,6,55,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3.1,4.4,1,missed,2015-04-04,DET,MIA,0,2
+Shot Chart Detail,0021401139,353,2617,Udonis Haslem,1610612748,Miami Heat,3,0,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-04-04,DET,MIA,1,2
+Shot Chart Detail,0021401139,397,2617,Udonis Haslem,1610612748,Miami Heat,4,9,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1.1,1.9,1,missed,2015-04-04,DET,MIA,0,2
+Shot Chart Detail,0021401139,401,2617,Udonis Haslem,1610612748,Miami Heat,4,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19.2,0.9,1,made,2015-04-04,DET,MIA,1,2
+Shot Chart Detail,0021401149,3,2617,Udonis Haslem,1610612748,Miami Heat,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,14.7,-0.8,1,missed,2015-04-05,IND,MIA,0,2
+Shot Chart Detail,0021401149,29,2617,Udonis Haslem,1610612748,Miami Heat,1,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.1,1,made,2015-04-05,IND,MIA,1,2
+Shot Chart Detail,0021401149,89,2617,Udonis Haslem,1610612748,Miami Heat,1,4,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0.3,1,made,2015-04-05,IND,MIA,1,2
+Shot Chart Detail,0021401149,130,2617,Udonis Haslem,1610612748,Miami Heat,1,0,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.4,0.1,1,missed,2015-04-05,IND,MIA,0,3
+Shot Chart Detail,0021401149,239,2617,Udonis Haslem,1610612748,Miami Heat,2,2,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.9,1,missed,2015-04-05,IND,MIA,0,2
+Shot Chart Detail,0021401149,306,2617,Udonis Haslem,1610612748,Miami Heat,3,10,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,-0.2,1,missed,2015-04-05,IND,MIA,0,2
+Shot Chart Detail,0021401149,356,2617,Udonis Haslem,1610612748,Miami Heat,3,4,32,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.7,3,1,made,2015-04-05,IND,MIA,1,2
+Shot Chart Detail,0021401149,481,2617,Udonis Haslem,1610612748,Miami Heat,4,6,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-0.8,1,missed,2015-04-05,IND,MIA,0,2
+Shot Chart Detail,0021401149,538,2617,Udonis Haslem,1610612748,Miami Heat,4,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.2,0.1,1,made,2015-04-05,IND,MIA,1,2
+Shot Chart Detail,0021401149,548,2617,Udonis Haslem,1610612748,Miami Heat,4,0,47,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1.5,6.3,1,made,2015-04-05,IND,MIA,1,2
+Shot Chart Detail,0021401155,42,2617,Udonis Haslem,1610612748,Miami Heat,1,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-8.1,13.5,1,missed,2015-04-07,MIA,CHA,0,2
+Shot Chart Detail,0021401155,52,2617,Udonis Haslem,1610612748,Miami Heat,1,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-15.4,7.4,1,missed,2015-04-07,MIA,CHA,0,2
+Shot Chart Detail,0021401155,155,2617,Udonis Haslem,1610612748,Miami Heat,2,9,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-04-07,MIA,CHA,1,2
+Shot Chart Detail,0021401155,282,2617,Udonis Haslem,1610612748,Miami Heat,3,10,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1.5,3.7,1,missed,2015-04-07,MIA,CHA,0,2
+Shot Chart Detail,0021401155,325,2617,Udonis Haslem,1610612748,Miami Heat,3,5,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4.6,1.1,1,made,2015-04-07,MIA,CHA,1,2
+Shot Chart Detail,0021401155,331,2617,Udonis Haslem,1610612748,Miami Heat,3,4,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,2.5,1,made,2015-04-07,MIA,CHA,1,2
+Shot Chart Detail,0021401155,351,2617,Udonis Haslem,1610612748,Miami Heat,3,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-0.2,1,made,2015-04-07,MIA,CHA,1,2
+Shot Chart Detail,0021401155,358,2617,Udonis Haslem,1610612748,Miami Heat,3,2,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,6.1,1,missed,2015-04-07,MIA,CHA,0,2
+Shot Chart Detail,0021401155,491,2617,Udonis Haslem,1610612748,Miami Heat,4,3,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.4,1.9,1,missed,2015-04-07,MIA,CHA,0,2
+Shot Chart Detail,0021401173,3,2617,Udonis Haslem,1610612748,Miami Heat,1,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,12.5,7.5,1,made,2015-04-09,MIA,CHI,1,2
+Shot Chart Detail,0021401173,21,2617,Udonis Haslem,1610612748,Miami Heat,1,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-0.4,18.7,1,missed,2015-04-09,MIA,CHI,0,2
+Shot Chart Detail,0021401173,68,2617,Udonis Haslem,1610612748,Miami Heat,1,3,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-6.5,13.2,1,missed,2015-04-09,MIA,CHI,0,2
+Shot Chart Detail,0021401173,303,2617,Udonis Haslem,1610612748,Miami Heat,3,6,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.1,0.8,1,missed,2015-04-09,MIA,CHI,0,2
+Shot Chart Detail,0021401188,11,2617,Udonis Haslem,1610612748,Miami Heat,1,10,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.1,0.9,1,missed,2015-04-11,MIA,TOR,0,3
+Shot Chart Detail,0021401188,20,2617,Udonis Haslem,1610612748,Miami Heat,1,10,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-04-11,MIA,TOR,1,2
+Shot Chart Detail,0021401188,38,2617,Udonis Haslem,1610612748,Miami Heat,1,7,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.6,-1.1,1,made,2015-04-11,MIA,TOR,1,2
+Shot Chart Detail,0021401207,8,2617,Udonis Haslem,1610612748,Miami Heat,1,10,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-9.1,14.3,1,missed,2015-04-13,MIA,ORL,0,2
+Shot Chart Detail,0021401207,22,2617,Udonis Haslem,1610612748,Miami Heat,1,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-7.3,17.5,1,made,2015-04-13,MIA,ORL,1,2
+Shot Chart Detail,0021401207,298,2617,Udonis Haslem,1610612748,Miami Heat,3,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,14.6,2.6,1,made,2015-04-13,MIA,ORL,1,2

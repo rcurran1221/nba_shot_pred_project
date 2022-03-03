@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="static/court.css">
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.15.0/d3.min.js"></script>
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="https://pyodide.cdn.iodide.io/pyodide.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/onnxjs/dist/onnx.min.js"></script>
+<script src="static/model.py"></script>
+<script src="static/model_decision_tree.py"></script>
+<script src="static/model_random_forest.py"></script>
+
+<body>
+  <div id="loadingWidget" class="container">
+    <p>Loading in d3 data, initializing pyodide</p>
+    <img src="static/backgrounds/ajax-loader.gif">
+  </div>
+  <div id="vizPanel" class="container h-100">
+    <div id="title" class="row h-10 d-flex justify-content-center">
+      <h3>Shot Probability Tool</h3>
+    </div>
+    <div id="courtViz" class="row h-60"></div>
+    <div class="container-fluid rounded bg-light">
+      <div class="row pt-3">
+        <div id="modelSelector" class="form-group col-3">
+          <div class="btn-group-vertical" id="model_button_group">
+            <input class="btn btn-primary active" type="button" value="Logistic Regression" id="logistic_regression" data-toggle="tooltip" data-placement="top" title="statsmodels.discrete.discrete_model.Logit">
+            <input class="btn btn-primary" type="button" value="Decision Tree" data-toggle="tooltip" data-placement="top" title="sklearn.tree.DecisionTreeClassifier" id="decision_tree">
+            <input class="btn btn-primary" type="button" value="Random Forest" data-toggle="tooltip" data-placement="top" title="sklearn.ensemble.RandomForestClassifier" id="random_forest">
+          </div>
+        </div>
+        <div id="parameterEntry" class="form-group col-9">
+          <div class="row">
+            <div class="col">
+              <label for="CLOSE_DEF_DIST" class="no-update">Closest Defender Distance</label>
+              <input type="text" id="CLOSE_DEF_DIST" name="Closest Defender Distance" class="form-control" disabled></input>
+            </div>
+            <div class="col">
+              <label for="SHOT_DIST" class="no-update">Shot Distance</label>
+              <input type="text" id="SHOT_DIST" name="Shot Distance" class="form-control" disabled></input>
+            </div>
+            <div class="col">
+              <label for="SHOT_ZONE">Shot Zone</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="Which region of the court the shot was taken from."></i>
+              <select class="form-control" id="SHOT_ZONE" disabled>
+                <option>Center(C)</option>
+                <option>Back Court(BC)</option>
+                <option>Left Side Center(LC)</option>
+                <option>Left Side(L)</option>
+                <option>Right Side Center(RC)</option>
+                <option>Right Side(R)</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <label for="SHOT_TYPE">Shot Type</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="Whether the shot was a jump shot (where the players' feet leave the ground, but not for a dunk). No other jump type impacted model performance significantly"></i>
+              <select class="form-control" id="SHOT_TYPE">
+                <option value="Layup Shot">Non-Jump Shot</option>
+                <option value="Jump Shot">Jump Shot</option>
+              </select>
+            </div>
+            <div class="col">
+              <label for="SHOT_NUMBER" class="no-update">Shot Number</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="How many shots the offender has attemped before the current attempt in this game."></i>
+              <input type="number" id="SHOT_NUMBER" name="Shot Number" class="form-control"  value="1" min="1" max="38">
+            </div>
+            <div class="col">
+              <label for="PERIOD">Period</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="Which of the 4 periods of the game the shot is attempted in."></i>
+              <select class="form-control" id="PERIOD">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <label for="TOUCH_TIME">Touch Time (sec)</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="How long the player has been in posession of the ball."></i>
+              <input type="number" id="TOUCH_TIME" class="form-control" value="2">
+            </div>
+            <div class="col">
+              <label for="DRIBBLES">Dribbles</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="How many dribbles were made before the shot."></i>
+              <input type="number" id="DRIBBLES" class="form-control"  value="2">
+            </div>
+            <div class="col">
+              <label for="POS_TIME_REMAINING">Time Remaining (sec)</label>
+              <i class="fa fa-question-circle" data-toggle="tooltip" data-placement="right" title="How many seconds remain on the shot clock."></i>
+              <input type="number" id="POS_TIME_REMAINING" class="form-control" value="2">
+            </div>
+          </div>
+          <div class="row">
+
+          </div>
+          <div class="row">
+            <label for="prediction">Prediction: </label>
+            <div id="prediction">Drag nodes to estimate shot success</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="static/court.js"></script>
+</body>
+
+</html>

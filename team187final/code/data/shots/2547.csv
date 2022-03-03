@@ -1,0 +1,746 @@
+grid_type,game_id,game_event_id,player_id,player_name,team_id,team_name,period,minutes_remaining,seconds_remaining,event_type,action_type,shot_type,shot_zone_basic,shot_zone_area,shot_zone_range,shot_distance,loc_x,loc_y,shot_attempted_flag,shot_made_flag,game_date,htm,vtm,shot_made_numeric,shot_value
+Shot Chart Detail,0021400007,4,2547,Chris Bosh,1610612748,Miami Heat,1,11,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.5,-1.6,1,made,2014-10-29,MIA,WAS,1,3
+Shot Chart Detail,0021400007,6,2547,Chris Bosh,1610612748,Miami Heat,1,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,13.1,20.5,1,missed,2014-10-29,MIA,WAS,0,3
+Shot Chart Detail,0021400007,81,2547,Chris Bosh,1610612748,Miami Heat,1,3,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1.5,1.7,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,121,2547,Chris Bosh,1610612748,Miami Heat,2,10,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,0,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,122,2547,Chris Bosh,1610612748,Miami Heat,2,10,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.4,-0.5,1,made,2014-10-29,MIA,WAS,1,2
+Shot Chart Detail,0021400007,127,2547,Chris Bosh,1610612748,Miami Heat,2,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2.3,18.6,1,made,2014-10-29,MIA,WAS,1,2
+Shot Chart Detail,0021400007,162,2547,Chris Bosh,1610612748,Miami Heat,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-13.6,11,1,made,2014-10-29,MIA,WAS,1,2
+Shot Chart Detail,0021400007,168,2547,Chris Bosh,1610612748,Miami Heat,2,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2.3,24.9,1,made,2014-10-29,MIA,WAS,1,3
+Shot Chart Detail,0021400007,237,2547,Chris Bosh,1610612748,Miami Heat,2,0,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7.2,23.8,1,made,2014-10-29,MIA,WAS,1,3
+Shot Chart Detail,0021400007,266,2547,Chris Bosh,1610612748,Miami Heat,3,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,19.9,-2.1,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,327,2547,Chris Bosh,1610612748,Miami Heat,3,1,55,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.7,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,357,2547,Chris Bosh,1610612748,Miami Heat,4,11,40,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1.9,1.4,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,369,2547,Chris Bosh,1610612748,Miami Heat,4,9,52,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-0.6,5.8,1,made,2014-10-29,MIA,WAS,1,2
+Shot Chart Detail,0021400007,371,2547,Chris Bosh,1610612748,Miami Heat,4,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,1.2,1,made,2014-10-29,MIA,WAS,1,2
+Shot Chart Detail,0021400007,392,2547,Chris Bosh,1610612748,Miami Heat,4,8,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,15.2,1.4,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,409,2547,Chris Bosh,1610612748,Miami Heat,4,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-8.3,17.5,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400007,453,2547,Chris Bosh,1610612748,Miami Heat,4,3,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,7.1,12.9,1,made,2014-10-29,MIA,WAS,1,2
+Shot Chart Detail,0021400007,485,2547,Chris Bosh,1610612748,Miami Heat,4,0,31,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,8.1,11.5,1,missed,2014-10-29,MIA,WAS,0,2
+Shot Chart Detail,0021400030,8,2547,Chris Bosh,1610612748,Miami Heat,1,11,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2.1,3.3,1,missed,2014-11-01,PHI,MIA,0,2
+Shot Chart Detail,0021400030,16,2547,Chris Bosh,1610612748,Miami Heat,1,10,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-9.7,17.6,1,missed,2014-11-01,PHI,MIA,0,2
+Shot Chart Detail,0021400030,33,2547,Chris Bosh,1610612748,Miami Heat,1,9,12,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,98,2547,Chris Bosh,1610612748,Miami Heat,1,3,5,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,1.1,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,112,2547,Chris Bosh,1610612748,Miami Heat,1,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,4.6,23.5,1,made,2014-11-01,PHI,MIA,1,3
+Shot Chart Detail,0021400030,162,2547,Chris Bosh,1610612748,Miami Heat,2,10,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,14.4,9.9,1,missed,2014-11-01,PHI,MIA,0,2
+Shot Chart Detail,0021400030,191,2547,Chris Bosh,1610612748,Miami Heat,2,7,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,11.1,9.4,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,252,2547,Chris Bosh,1610612748,Miami Heat,2,2,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.3,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,273,2547,Chris Bosh,1610612748,Miami Heat,2,0,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,20.1,17,1,made,2014-11-01,PHI,MIA,1,3
+Shot Chart Detail,0021400030,275,2547,Chris Bosh,1610612748,Miami Heat,2,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,18,21.4,1,missed,2014-11-01,PHI,MIA,0,3
+Shot Chart Detail,0021400030,311,2547,Chris Bosh,1610612748,Miami Heat,3,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,13.9,11.8,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,336,2547,Chris Bosh,1610612748,Miami Heat,3,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-8.6,4.2,1,missed,2014-11-01,PHI,MIA,0,2
+Shot Chart Detail,0021400030,345,2547,Chris Bosh,1610612748,Miami Heat,3,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.1,0,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,439,2547,Chris Bosh,1610612748,Miami Heat,4,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-15.1,3.6,1,missed,2014-11-01,PHI,MIA,0,2
+Shot Chart Detail,0021400030,451,2547,Chris Bosh,1610612748,Miami Heat,4,8,43,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,9.4,1,made,2014-11-01,PHI,MIA,1,2
+Shot Chart Detail,0021400030,494,2547,Chris Bosh,1610612748,Miami Heat,4,4,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-13,22,1,missed,2014-11-01,PHI,MIA,0,3
+Shot Chart Detail,0021400030,530,2547,Chris Bosh,1610612748,Miami Heat,4,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,14.6,21.4,1,missed,2014-11-01,PHI,MIA,0,3
+Shot Chart Detail,0021400040,12,2547,Chris Bosh,1610612748,Miami Heat,1,10,38,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0,1,made,2014-11-02,MIA,TOR,1,2
+Shot Chart Detail,0021400040,42,2547,Chris Bosh,1610612748,Miami Heat,1,7,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7.7,23.9,1,missed,2014-11-02,MIA,TOR,0,3
+Shot Chart Detail,0021400040,121,2547,Chris Bosh,1610612748,Miami Heat,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-17.6,5.2,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400040,173,2547,Chris Bosh,1610612748,Miami Heat,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.5,-0.6,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400040,186,2547,Chris Bosh,1610612748,Miami Heat,2,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-11.4,14.8,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400040,269,2547,Chris Bosh,1610612748,Miami Heat,2,2,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.1,0.9,1,made,2014-11-02,MIA,TOR,1,2
+Shot Chart Detail,0021400040,280,2547,Chris Bosh,1610612748,Miami Heat,2,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.7,0.9,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400040,292,2547,Chris Bosh,1610612748,Miami Heat,2,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,6.7,20.5,1,made,2014-11-02,MIA,TOR,1,2
+Shot Chart Detail,0021400040,312,2547,Chris Bosh,1610612748,Miami Heat,3,10,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,19.3,14.9,1,made,2014-11-02,MIA,TOR,1,3
+Shot Chart Detail,0021400040,415,2547,Chris Bosh,1610612748,Miami Heat,4,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-14.1,15.1,1,made,2014-11-02,MIA,TOR,1,2
+Shot Chart Detail,0021400040,460,2547,Chris Bosh,1610612748,Miami Heat,4,7,41,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.1,2.8,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400040,494,2547,Chris Bosh,1610612748,Miami Heat,4,4,59,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5.2,10.5,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400040,524,2547,Chris Bosh,1610612748,Miami Heat,4,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,14.2,4.2,1,missed,2014-11-02,MIA,TOR,0,2
+Shot Chart Detail,0021400050,2,2547,Chris Bosh,1610612748,Miami Heat,1,11,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2,16.4,1,made,2014-11-04,MIA,HOU,1,2
+Shot Chart Detail,0021400050,16,2547,Chris Bosh,1610612748,Miami Heat,1,10,14,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-04,MIA,HOU,1,2
+Shot Chart Detail,0021400050,76,2547,Chris Bosh,1610612748,Miami Heat,1,1,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,missed,2014-11-04,MIA,HOU,0,2
+Shot Chart Detail,0021400050,120,2547,Chris Bosh,1610612748,Miami Heat,2,11,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-21.7,13.4,1,missed,2014-11-04,MIA,HOU,0,3
+Shot Chart Detail,0021400050,132,2547,Chris Bosh,1610612748,Miami Heat,2,10,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-0.7,7.8,1,made,2014-11-04,MIA,HOU,1,2
+Shot Chart Detail,0021400050,297,2547,Chris Bosh,1610612748,Miami Heat,3,11,4,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,4,13.4,1,missed,2014-11-04,MIA,HOU,0,2
+Shot Chart Detail,0021400050,308,2547,Chris Bosh,1610612748,Miami Heat,3,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2.3,15.9,1,made,2014-11-04,MIA,HOU,1,2
+Shot Chart Detail,0021400050,322,2547,Chris Bosh,1610612748,Miami Heat,3,7,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.1,0.4,1,missed,2014-11-04,MIA,HOU,0,2
+Shot Chart Detail,0021400050,355,2547,Chris Bosh,1610612748,Miami Heat,3,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2,18.7,1,made,2014-11-04,MIA,HOU,1,2
+Shot Chart Detail,0021400050,365,2547,Chris Bosh,1610612748,Miami Heat,3,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-10.2,23.1,1,made,2014-11-04,MIA,HOU,1,3
+Shot Chart Detail,0021400050,410,2547,Chris Bosh,1610612748,Miami Heat,3,0,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.9,0,1,made,2014-11-04,MIA,HOU,1,2
+Shot Chart Detail,0021400050,420,2547,Chris Bosh,1610612748,Miami Heat,4,11,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-3.4,24.2,1,made,2014-11-04,MIA,HOU,1,3
+Shot Chart Detail,0021400050,432,2547,Chris Bosh,1610612748,Miami Heat,4,9,55,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.2,3.6,1,missed,2014-11-04,MIA,HOU,0,2
+Shot Chart Detail,0021400050,479,2547,Chris Bosh,1610612748,Miami Heat,4,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1.8,24.9,1,missed,2014-11-04,MIA,HOU,0,3
+Shot Chart Detail,0021400057,22,2547,Chris Bosh,1610612748,Miami Heat,1,8,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,9.5,15.1,1,missed,2014-11-05,CHA,MIA,0,2
+Shot Chart Detail,0021400057,28,2547,Chris Bosh,1610612748,Miami Heat,1,7,32,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-14.9,4.1,1,made,2014-11-05,CHA,MIA,1,2
+Shot Chart Detail,0021400057,88,2547,Chris Bosh,1610612748,Miami Heat,1,2,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2.3,3.4,1,missed,2014-11-05,CHA,MIA,0,2
+Shot Chart Detail,0021400057,130,2547,Chris Bosh,1610612748,Miami Heat,2,10,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,15.5,3,1,made,2014-11-05,CHA,MIA,1,2
+Shot Chart Detail,0021400057,148,2547,Chris Bosh,1610612748,Miami Heat,2,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0.5,26,1,missed,2014-11-05,CHA,MIA,0,3
+Shot Chart Detail,0021400057,229,2547,Chris Bosh,1610612748,Miami Heat,2,0,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-11.8,22.8,1,missed,2014-11-05,CHA,MIA,0,3
+Shot Chart Detail,0021400057,256,2547,Chris Bosh,1610612748,Miami Heat,3,10,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.5,2.2,1,missed,2014-11-05,CHA,MIA,0,2
+Shot Chart Detail,0021400057,261,2547,Chris Bosh,1610612748,Miami Heat,3,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,13.8,22,1,made,2014-11-05,CHA,MIA,1,3
+Shot Chart Detail,0021400057,272,2547,Chris Bosh,1610612748,Miami Heat,3,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3.5,16.2,1,made,2014-11-05,CHA,MIA,1,2
+Shot Chart Detail,0021400057,277,2547,Chris Bosh,1610612748,Miami Heat,3,8,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-05,CHA,MIA,1,2
+Shot Chart Detail,0021400057,378,2547,Chris Bosh,1610612748,Miami Heat,3,1,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2.4,6.7,1,missed,2014-11-05,CHA,MIA,0,2
+Shot Chart Detail,0021400057,405,2547,Chris Bosh,1610612748,Miami Heat,4,10,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,7.9,16.2,1,missed,2014-11-05,CHA,MIA,0,2
+Shot Chart Detail,0021400057,446,2547,Chris Bosh,1610612748,Miami Heat,4,8,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,11.2,23.9,1,missed,2014-11-05,CHA,MIA,0,3
+Shot Chart Detail,0021400057,463,2547,Chris Bosh,1610612748,Miami Heat,4,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1.8,4.7,1,missed,2014-11-05,CHA,MIA,0,2
+Shot Chart Detail,0021400057,490,2547,Chris Bosh,1610612748,Miami Heat,4,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-11,2.5,1,made,2014-11-05,CHA,MIA,1,2
+Shot Chart Detail,0021400057,493,2547,Chris Bosh,1610612748,Miami Heat,4,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-10.3,15.1,1,made,2014-11-05,CHA,MIA,1,2
+Shot Chart Detail,0021400057,549,2547,Chris Bosh,1610612748,Miami Heat,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,17.9,20.8,1,missed,2014-11-05,CHA,MIA,0,3
+Shot Chart Detail,0021400057,567,2547,Chris Bosh,1610612748,Miami Heat,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,-8.8,25.8,1,missed,2014-11-05,CHA,MIA,0,3
+Shot Chart Detail,0021400085,16,2547,Chris Bosh,1610612748,Miami Heat,1,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.7,0.6,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,74,2547,Chris Bosh,1610612748,Miami Heat,1,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-9.4,16,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,85,2547,Chris Bosh,1610612748,Miami Heat,1,1,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19.3,1.9,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,91,2547,Chris Bosh,1610612748,Miami Heat,1,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.7,0.1,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,105,2547,Chris Bosh,1610612748,Miami Heat,2,11,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-11.8,14.9,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,115,2547,Chris Bosh,1610612748,Miami Heat,2,10,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-1,24.7,1,missed,2014-11-08,MIA,MIN,0,3
+Shot Chart Detail,0021400085,129,2547,Chris Bosh,1610612748,Miami Heat,2,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,7.5,12.1,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,143,2547,Chris Bosh,1610612748,Miami Heat,2,7,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,12.2,0,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,219,2547,Chris Bosh,1610612748,Miami Heat,2,1,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-12.4,14.6,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,234,2547,Chris Bosh,1610612748,Miami Heat,2,0,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-12.9,12.9,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,246,2547,Chris Bosh,1610612748,Miami Heat,3,10,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,-5.9,6.6,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,357,2547,Chris Bosh,1610612748,Miami Heat,3,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-15.5,3.6,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,359,2547,Chris Bosh,1610612748,Miami Heat,3,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.1,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,370,2547,Chris Bosh,1610612748,Miami Heat,4,11,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-11.8,0,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,402,2547,Chris Bosh,1610612748,Miami Heat,4,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4.8,17.3,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400085,412,2547,Chris Bosh,1610612748,Miami Heat,4,8,8,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.6,0.3,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,431,2547,Chris Bosh,1610612748,Miami Heat,4,6,39,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.4,3.6,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,433,2547,Chris Bosh,1610612748,Miami Heat,4,6,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,-0.8,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,435,2547,Chris Bosh,1610612748,Miami Heat,4,6,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.7,0.9,1,missed,2014-11-08,MIA,MIN,0,2
+Shot Chart Detail,0021400085,487,2547,Chris Bosh,1610612748,Miami Heat,4,3,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,16.9,17.5,1,missed,2014-11-08,MIA,MIN,0,3
+Shot Chart Detail,0021400085,495,2547,Chris Bosh,1610612748,Miami Heat,4,2,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16,0.7,1,made,2014-11-08,MIA,MIN,1,2
+Shot Chart Detail,0021400094,8,2547,Chris Bosh,1610612748,Miami Heat,1,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,13.3,10.7,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,36,2547,Chris Bosh,1610612748,Miami Heat,1,7,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,16.1,19,1,missed,2014-11-09,DAL,MIA,0,3
+Shot Chart Detail,0021400094,105,2547,Chris Bosh,1610612748,Miami Heat,1,1,54,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.4,0.3,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,111,2547,Chris Bosh,1610612748,Miami Heat,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.8,2,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,152,2547,Chris Bosh,1610612748,Miami Heat,2,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19,3.3,1,missed,2014-11-09,DAL,MIA,0,2
+Shot Chart Detail,0021400094,221,2547,Chris Bosh,1610612748,Miami Heat,2,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.2,-0.2,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,226,2547,Chris Bosh,1610612748,Miami Heat,2,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-16.3,5,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,236,2547,Chris Bosh,1610612748,Miami Heat,2,1,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.4,4.4,1,missed,2014-11-09,DAL,MIA,0,3
+Shot Chart Detail,0021400094,245,2547,Chris Bosh,1610612748,Miami Heat,2,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,-8.4,20.8,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400094,519,2547,Chris Bosh,1610612748,Miami Heat,4,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.4,0.9,1,made,2014-11-09,DAL,MIA,1,2
+Shot Chart Detail,0021400112,12,2547,Chris Bosh,1610612748,Miami Heat,1,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,10.6,13.1,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,22,2547,Chris Bosh,1610612748,Miami Heat,1,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-13.2,15.1,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,152,2547,Chris Bosh,1610612748,Miami Heat,2,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-15.4,1.7,1,made,2014-11-12,MIA,IND,1,2
+Shot Chart Detail,0021400112,155,2547,Chris Bosh,1610612748,Miami Heat,2,6,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.7,0.1,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,176,2547,Chris Bosh,1610612748,Miami Heat,2,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,3.5,24.6,1,made,2014-11-12,MIA,IND,1,3
+Shot Chart Detail,0021400112,205,2547,Chris Bosh,1610612748,Miami Heat,2,1,10,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-14.6,8.9,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,236,2547,Chris Bosh,1610612748,Miami Heat,3,10,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.4,1.4,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,258,2547,Chris Bosh,1610612748,Miami Heat,3,7,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-14.4,6.3,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,262,2547,Chris Bosh,1610612748,Miami Heat,3,6,34,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,8.4,1.4,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,279,2547,Chris Bosh,1610612748,Miami Heat,3,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-11.6,15.7,1,missed,2014-11-12,MIA,IND,0,2
+Shot Chart Detail,0021400112,285,2547,Chris Bosh,1610612748,Miami Heat,3,4,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.6,0.4,1,made,2014-11-12,MIA,IND,1,2
+Shot Chart Detail,0021400112,340,2547,Chris Bosh,1610612748,Miami Heat,3,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-8.6,23.1,1,missed,2014-11-12,MIA,IND,0,3
+Shot Chart Detail,0021400112,433,2547,Chris Bosh,1610612748,Miami Heat,4,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-20,15.3,1,missed,2014-11-12,MIA,IND,0,3
+Shot Chart Detail,0021400124,8,2547,Chris Bosh,1610612748,Miami Heat,1,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,15.5,10.7,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,33,2547,Chris Bosh,1610612748,Miami Heat,1,8,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,38,2547,Chris Bosh,1610612748,Miami Heat,1,7,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,12,17.2,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,103,2547,Chris Bosh,1610612748,Miami Heat,1,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,0.9,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,125,2547,Chris Bosh,1610612748,Miami Heat,1,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,3.4,19.7,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,167,2547,Chris Bosh,1610612748,Miami Heat,2,9,24,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.8,0.9,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,234,2547,Chris Bosh,1610612748,Miami Heat,2,2,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4.8,3.6,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,250,2547,Chris Bosh,1610612748,Miami Heat,2,1,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,1.1,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,275,2547,Chris Bosh,1610612748,Miami Heat,3,11,30,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,279,2547,Chris Bosh,1610612748,Miami Heat,3,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.7,1.1,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,308,2547,Chris Bosh,1610612748,Miami Heat,3,6,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.4,1.7,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,330,2547,Chris Bosh,1610612748,Miami Heat,3,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,8.1,18.4,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,363,2547,Chris Bosh,1610612748,Miami Heat,3,0,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.7,0.4,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,383,2547,Chris Bosh,1610612748,Miami Heat,4,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,-17,12.9,1,made,2014-11-14,ATL,MIA,1,2
+Shot Chart Detail,0021400124,393,2547,Chris Bosh,1610612748,Miami Heat,4,9,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6.1,24.7,1,missed,2014-11-14,ATL,MIA,0,3
+Shot Chart Detail,0021400124,403,2547,Chris Bosh,1610612748,Miami Heat,4,8,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,13.9,8.2,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,457,2547,Chris Bosh,1610612748,Miami Heat,4,4,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,-23.6,4.8,1,missed,2014-11-14,ATL,MIA,0,3
+Shot Chart Detail,0021400124,464,2547,Chris Bosh,1610612748,Miami Heat,4,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,7.6,19.4,1,missed,2014-11-14,ATL,MIA,0,2
+Shot Chart Detail,0021400124,479,2547,Chris Bosh,1610612748,Miami Heat,4,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-14.6,20.6,1,missed,2014-11-14,ATL,MIA,0,3
+Shot Chart Detail,0021400143,5,2547,Chris Bosh,1610612748,Miami Heat,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,9.7,14.8,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,33,2547,Chris Bosh,1610612748,Miami Heat,1,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.1,4.5,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,45,2547,Chris Bosh,1610612748,Miami Heat,1,6,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.2,-0.2,1,made,2014-11-16,MIA,MIL,1,2
+Shot Chart Detail,0021400143,52,2547,Chris Bosh,1610612748,Miami Heat,1,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,17.9,16.4,1,missed,2014-11-16,MIA,MIL,0,3
+Shot Chart Detail,0021400143,120,2547,Chris Bosh,1610612748,Miami Heat,2,10,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-13,13.7,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,140,2547,Chris Bosh,1610612748,Miami Heat,2,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-14.1,13.5,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,226,2547,Chris Bosh,1610612748,Miami Heat,2,1,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.6,0.4,1,missed,2014-11-16,MIA,MIL,0,3
+Shot Chart Detail,0021400143,250,2547,Chris Bosh,1610612748,Miami Heat,3,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-17.6,9.3,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,279,2547,Chris Bosh,1610612748,Miami Heat,3,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,20.7,12.6,1,missed,2014-11-16,MIA,MIL,0,3
+Shot Chart Detail,0021400143,283,2547,Chris Bosh,1610612748,Miami Heat,3,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6.1,14.2,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,315,2547,Chris Bosh,1610612748,Miami Heat,3,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,10,14.6,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,332,2547,Chris Bosh,1610612748,Miami Heat,3,4,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.1,0.3,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,348,2547,Chris Bosh,1610612748,Miami Heat,3,2,52,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,359,2547,Chris Bosh,1610612748,Miami Heat,3,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1.5,25.5,1,made,2014-11-16,MIA,MIL,1,3
+Shot Chart Detail,0021400143,362,2547,Chris Bosh,1610612748,Miami Heat,3,1,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.5,0,1,missed,2014-11-16,MIA,MIL,0,2
+Shot Chart Detail,0021400143,448,2547,Chris Bosh,1610612748,Miami Heat,4,5,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-13.6,20.5,1,missed,2014-11-16,MIA,MIL,0,3
+Shot Chart Detail,0021400143,517,2547,Chris Bosh,1610612748,Miami Heat,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-9.2,23.6,1,missed,2014-11-16,MIA,MIL,0,3
+Shot Chart Detail,0021400149,131,2547,Chris Bosh,1610612748,Miami Heat,2,9,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.3,0,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,133,2547,Chris Bosh,1610612748,Miami Heat,2,9,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2.1,0,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,147,2547,Chris Bosh,1610612748,Miami Heat,2,8,51,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.3,0.6,1,made,2014-11-17,BKN,MIA,1,2
+Shot Chart Detail,0021400149,150,2547,Chris Bosh,1610612748,Miami Heat,2,8,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2.9,1.4,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,157,2547,Chris Bosh,1610612748,Miami Heat,2,7,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3.7,-0.5,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,214,2547,Chris Bosh,1610612748,Miami Heat,2,2,24,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-15.1,11.6,1,made,2014-11-17,BKN,MIA,1,2
+Shot Chart Detail,0021400149,218,2547,Chris Bosh,1610612748,Miami Heat,2,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.1,3.4,1,missed,2014-11-17,BKN,MIA,0,2
+Shot Chart Detail,0021400149,243,2547,Chris Bosh,1610612748,Miami Heat,3,11,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.1,-2.1,1,missed,2014-11-17,BKN,MIA,0,3
+Shot Chart Detail,0021400149,284,2547,Chris Bosh,1610612748,Miami Heat,3,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,9.8,13.2,1,made,2014-11-17,BKN,MIA,1,2
+Shot Chart Detail,0021400149,457,2547,Chris Bosh,1610612748,Miami Heat,4,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,14.2,14.2,1,made,2014-11-17,BKN,MIA,1,2
+Shot Chart Detail,0021400149,480,2547,Chris Bosh,1610612748,Miami Heat,4,1,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,20.9,14.2,1,made,2014-11-17,BKN,MIA,1,3
+Shot Chart Detail,0021400170,5,2547,Chris Bosh,1610612748,Miami Heat,1,11,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-8,19,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400170,12,2547,Chris Bosh,1610612748,Miami Heat,1,10,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,-6.9,5.3,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,38,2547,Chris Bosh,1610612748,Miami Heat,1,6,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.5,0,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400170,39,2547,Chris Bosh,1610612748,Miami Heat,1,6,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.7,-0.3,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,52,2547,Chris Bosh,1610612748,Miami Heat,1,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.1,0,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,108,2547,Chris Bosh,1610612748,Miami Heat,2,11,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1.6,16.1,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,121,2547,Chris Bosh,1610612748,Miami Heat,2,9,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,10.8,4.7,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,150,2547,Chris Bosh,1610612748,Miami Heat,2,7,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-18.9,3.7,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400170,194,2547,Chris Bosh,1610612748,Miami Heat,2,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4.8,24.9,1,made,2014-11-20,MIA,LAC,1,3
+Shot Chart Detail,0021400170,208,2547,Chris Bosh,1610612748,Miami Heat,2,0,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-18.9,17.8,1,missed,2014-11-20,MIA,LAC,0,3
+Shot Chart Detail,0021400170,230,2547,Chris Bosh,1610612748,Miami Heat,3,11,23,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-8.4,4.1,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400170,243,2547,Chris Bosh,1610612748,Miami Heat,3,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-10,13.4,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,259,2547,Chris Bosh,1610612748,Miami Heat,3,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-16,12.3,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400170,262,2547,Chris Bosh,1610612748,Miami Heat,3,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2.4,19.8,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,267,2547,Chris Bosh,1610612748,Miami Heat,3,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,18.7,10.4,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400170,290,2547,Chris Bosh,1610612748,Miami Heat,3,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,18.3,6,1,made,2014-11-20,MIA,LAC,1,2
+Shot Chart Detail,0021400170,422,2547,Chris Bosh,1610612748,Miami Heat,4,5,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,-7,11.2,1,missed,2014-11-20,MIA,LAC,0,2
+Shot Chart Detail,0021400185,21,2547,Chris Bosh,1610612748,Miami Heat,1,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-13.2,10.2,1,missed,2014-11-22,ORL,MIA,0,2
+Shot Chart Detail,0021400185,30,2547,Chris Bosh,1610612748,Miami Heat,1,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,9,-0.5,1,missed,2014-11-22,ORL,MIA,0,2
+Shot Chart Detail,0021400185,44,2547,Chris Bosh,1610612748,Miami Heat,1,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,14.1,5.3,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,46,2547,Chris Bosh,1610612748,Miami Heat,1,6,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-16.8,18.9,1,made,2014-11-22,ORL,MIA,1,3
+Shot Chart Detail,0021400185,55,2547,Chris Bosh,1610612748,Miami Heat,1,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,-12.5,4.1,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,151,2547,Chris Bosh,1610612748,Miami Heat,2,8,52,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.7,1.1,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,153,2547,Chris Bosh,1610612748,Miami Heat,2,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-15.2,20.8,1,made,2014-11-22,ORL,MIA,1,3
+Shot Chart Detail,0021400185,189,2547,Chris Bosh,1610612748,Miami Heat,2,4,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,-0.2,1,missed,2014-11-22,ORL,MIA,0,2
+Shot Chart Detail,0021400185,193,2547,Chris Bosh,1610612748,Miami Heat,2,4,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,-7.8,7.2,1,missed,2014-11-22,ORL,MIA,0,2
+Shot Chart Detail,0021400185,215,2547,Chris Bosh,1610612748,Miami Heat,2,1,42,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,8.8,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,249,2547,Chris Bosh,1610612748,Miami Heat,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,-15.2,21.6,1,missed,2014-11-22,ORL,MIA,0,3
+Shot Chart Detail,0021400185,260,2547,Chris Bosh,1610612748,Miami Heat,3,10,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,6.8,18.4,1,missed,2014-11-22,ORL,MIA,0,2
+Shot Chart Detail,0021400185,283,2547,Chris Bosh,1610612748,Miami Heat,3,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,8.7,21.3,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,296,2547,Chris Bosh,1610612748,Miami Heat,3,6,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-17.1,8.9,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,393,2547,Chris Bosh,1610612748,Miami Heat,4,9,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,14.4,9.9,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,400,2547,Chris Bosh,1610612748,Miami Heat,4,8,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1.1,26,1,made,2014-11-22,ORL,MIA,1,3
+Shot Chart Detail,0021400185,419,2547,Chris Bosh,1610612748,Miami Heat,4,7,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1.3,24.4,1,missed,2014-11-22,ORL,MIA,0,3
+Shot Chart Detail,0021400185,445,2547,Chris Bosh,1610612748,Miami Heat,4,4,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,13.1,22.7,1,made,2014-11-22,ORL,MIA,1,3
+Shot Chart Detail,0021400185,458,2547,Chris Bosh,1610612748,Miami Heat,4,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.1,-1.3,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400185,460,2547,Chris Bosh,1610612748,Miami Heat,4,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.1,2.6,1,made,2014-11-22,ORL,MIA,1,2
+Shot Chart Detail,0021400195,5,2547,Chris Bosh,1610612748,Miami Heat,1,11,11,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,-6.7,5.5,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,7,2547,Chris Bosh,1610612748,Miami Heat,1,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,10.3,9.9,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,21,2547,Chris Bosh,1610612748,Miami Heat,1,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-13,13.7,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,65,2547,Chris Bosh,1610612748,Miami Heat,1,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,13.9,20.8,1,missed,2014-11-23,MIA,CHA,0,3
+Shot Chart Detail,0021400195,151,2547,Chris Bosh,1610612748,Miami Heat,2,5,43,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7.8,1.7,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,153,2547,Chris Bosh,1610612748,Miami Heat,2,5,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3.6,2.6,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,165,2547,Chris Bosh,1610612748,Miami Heat,2,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.1,0.6,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,184,2547,Chris Bosh,1610612748,Miami Heat,2,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.7,0.3,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,187,2547,Chris Bosh,1610612748,Miami Heat,2,2,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,16.4,19,1,made,2014-11-23,MIA,CHA,1,3
+Shot Chart Detail,0021400195,197,2547,Chris Bosh,1610612748,Miami Heat,2,1,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.2,0,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,237,2547,Chris Bosh,1610612748,Miami Heat,3,10,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,-7.2,11.9,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,240,2547,Chris Bosh,1610612748,Miami Heat,3,9,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,6.7,13.5,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,248,2547,Chris Bosh,1610612748,Miami Heat,3,7,52,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1.5,1.9,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,258,2547,Chris Bosh,1610612748,Miami Heat,3,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,9.7,13.2,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400195,265,2547,Chris Bosh,1610612748,Miami Heat,3,5,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-10.5,13.4,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,339,2547,Chris Bosh,1610612748,Miami Heat,4,11,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,-21.5,6,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,373,2547,Chris Bosh,1610612748,Miami Heat,4,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,20.5,12.7,1,missed,2014-11-23,MIA,CHA,0,3
+Shot Chart Detail,0021400195,383,2547,Chris Bosh,1610612748,Miami Heat,4,6,55,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0.7,8.8,1,missed,2014-11-23,MIA,CHA,0,2
+Shot Chart Detail,0021400195,402,2547,Chris Bosh,1610612748,Miami Heat,4,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-15.4,19.7,1,made,2014-11-23,MIA,CHA,1,3
+Shot Chart Detail,0021400195,422,2547,Chris Bosh,1610612748,Miami Heat,4,4,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.5,0.7,1,missed,2014-11-23,MIA,CHA,0,3
+Shot Chart Detail,0021400195,460,2547,Chris Bosh,1610612748,Miami Heat,4,0,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-11.9,1.9,1,made,2014-11-23,MIA,CHA,1,2
+Shot Chart Detail,0021400206,23,2547,Chris Bosh,1610612748,Miami Heat,1,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,10.9,9.6,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,25,2547,Chris Bosh,1610612748,Miami Heat,1,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2.4,18.4,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,43,2547,Chris Bosh,1610612748,Miami Heat,1,6,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-12.4,13.2,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,49,2547,Chris Bosh,1610612748,Miami Heat,1,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,16.1,18.6,1,made,2014-11-25,MIA,GSW,1,3
+Shot Chart Detail,0021400206,52,2547,Chris Bosh,1610612748,Miami Heat,1,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,10.1,10.1,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,189,2547,Chris Bosh,1610612748,Miami Heat,2,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,14.1,20.3,1,made,2014-11-25,MIA,GSW,1,3
+Shot Chart Detail,0021400206,203,2547,Chris Bosh,1610612748,Miami Heat,2,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,-17.4,10.8,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,211,2547,Chris Bosh,1610612748,Miami Heat,2,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,11.9,15.1,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,228,2547,Chris Bosh,1610612748,Miami Heat,2,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.8,0.6,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,248,2547,Chris Bosh,1610612748,Miami Heat,2,1,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.9,0,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,276,2547,Chris Bosh,1610612748,Miami Heat,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-10.2,15.1,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,283,2547,Chris Bosh,1610612748,Miami Heat,3,9,7,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1.2,12.9,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,291,2547,Chris Bosh,1610612748,Miami Heat,3,7,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-10.3,13.7,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,318,2547,Chris Bosh,1610612748,Miami Heat,3,3,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,21.3,12.1,1,missed,2014-11-25,MIA,GSW,0,3
+Shot Chart Detail,0021400206,388,2547,Chris Bosh,1610612748,Miami Heat,4,11,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-13.6,4.8,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,391,2547,Chris Bosh,1610612748,Miami Heat,4,10,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,-7.5,7.8,1,made,2014-11-25,MIA,GSW,1,2
+Shot Chart Detail,0021400206,402,2547,Chris Bosh,1610612748,Miami Heat,4,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,11.4,14.6,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,417,2547,Chris Bosh,1610612748,Miami Heat,4,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-10.8,9.4,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400206,472,2547,Chris Bosh,1610612748,Miami Heat,4,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-9.4,18.4,1,missed,2014-11-25,MIA,GSW,0,2
+Shot Chart Detail,0021400245,2,2547,Chris Bosh,1610612748,Miami Heat,1,11,43,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0.8,2.6,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,7,2547,Chris Bosh,1610612748,Miami Heat,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,-11.8,17.9,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400245,9,2547,Chris Bosh,1610612748,Miami Heat,1,10,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6.7,23.6,1,missed,2014-11-30,NYK,MIA,0,3
+Shot Chart Detail,0021400245,31,2547,Chris Bosh,1610612748,Miami Heat,1,8,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,20.5,14.3,1,missed,2014-11-30,NYK,MIA,0,3
+Shot Chart Detail,0021400245,84,2547,Chris Bosh,1610612748,Miami Heat,1,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.1,0.6,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,211,2547,Chris Bosh,1610612748,Miami Heat,2,5,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.1,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400245,239,2547,Chris Bosh,1610612748,Miami Heat,2,2,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,4.8,11,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,251,2547,Chris Bosh,1610612748,Miami Heat,2,1,37,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-9.2,1.7,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400245,292,2547,Chris Bosh,1610612748,Miami Heat,3,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-18.2,5.6,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400245,301,2547,Chris Bosh,1610612748,Miami Heat,3,8,21,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-8.1,14.5,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,323,2547,Chris Bosh,1610612748,Miami Heat,3,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,14.6,20.5,1,made,2014-11-30,NYK,MIA,1,3
+Shot Chart Detail,0021400245,325,2547,Chris Bosh,1610612748,Miami Heat,3,6,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-1.8,19.5,1,made,2014-11-30,NYK,MIA,1,2
+Shot Chart Detail,0021400245,348,2547,Chris Bosh,1610612748,Miami Heat,3,3,27,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.2,-0.5,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,452,2547,Chris Bosh,1610612748,Miami Heat,4,7,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.3,0,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,479,2547,Chris Bosh,1610612748,Miami Heat,4,5,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,13.9,20.9,1,missed,2014-11-30,NYK,MIA,0,3
+Shot Chart Detail,0021400245,514,2547,Chris Bosh,1610612748,Miami Heat,4,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-9.9,7.8,1,missed,2014-11-30,NYK,MIA,0,2
+Shot Chart Detail,0021400245,521,2547,Chris Bosh,1610612748,Miami Heat,4,1,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,10.6,22.2,1,made,2014-11-30,NYK,MIA,1,3
+Shot Chart Detail,0021400245,524,2547,Chris Bosh,1610612748,Miami Heat,4,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7.1,25.5,1,missed,2014-11-30,NYK,MIA,0,3
+Shot Chart Detail,0021400250,5,2547,Chris Bosh,1610612748,Miami Heat,1,11,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,8.2,14.8,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,26,2547,Chris Bosh,1610612748,Miami Heat,1,8,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,12,23.5,1,missed,2014-12-01,WAS,MIA,0,3
+Shot Chart Detail,0021400250,55,2547,Chris Bosh,1610612748,Miami Heat,1,6,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,7.6,9.6,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,72,2547,Chris Bosh,1610612748,Miami Heat,1,4,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.7,-0.6,1,missed,2014-12-01,WAS,MIA,0,2
+Shot Chart Detail,0021400250,89,2547,Chris Bosh,1610612748,Miami Heat,1,3,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5.9,11.9,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,97,2547,Chris Bosh,1610612748,Miami Heat,1,3,0,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-9.2,3.6,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,108,2547,Chris Bosh,1610612748,Miami Heat,1,1,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,7.9,12.7,1,missed,2014-12-01,WAS,MIA,0,2
+Shot Chart Detail,0021400250,192,2547,Chris Bosh,1610612748,Miami Heat,2,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,10.6,23.3,1,made,2014-12-01,WAS,MIA,1,3
+Shot Chart Detail,0021400250,222,2547,Chris Bosh,1610612748,Miami Heat,2,3,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.4,3.1,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,249,2547,Chris Bosh,1610612748,Miami Heat,2,1,9,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-16.8,3.9,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,251,2547,Chris Bosh,1610612748,Miami Heat,2,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.1,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400250,265,2547,Chris Bosh,1610612748,Miami Heat,3,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.3,0.7,1,missed,2014-12-01,WAS,MIA,0,2
+Shot Chart Detail,0021400250,344,2547,Chris Bosh,1610612748,Miami Heat,3,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-1.5,24.9,1,missed,2014-12-01,WAS,MIA,0,3
+Shot Chart Detail,0021400250,417,2547,Chris Bosh,1610612748,Miami Heat,4,6,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1.7,6,1,made,2014-12-01,WAS,MIA,1,2
+Shot Chart Detail,0021400267,17,2547,Chris Bosh,1610612748,Miami Heat,1,10,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7.2,0,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400267,33,2547,Chris Bosh,1610612748,Miami Heat,1,7,23,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,16.4,11.6,1,missed,2014-12-03,MIA,ATL,0,2
+Shot Chart Detail,0021400267,120,2547,Chris Bosh,1610612748,Miami Heat,2,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-13.2,8.8,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400267,136,2547,Chris Bosh,1610612748,Miami Heat,2,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-15.1,19.8,1,made,2014-12-03,MIA,ATL,1,3
+Shot Chart Detail,0021400267,282,2547,Chris Bosh,1610612748,Miami Heat,3,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,0.1,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400267,290,2547,Chris Bosh,1610612748,Miami Heat,3,8,12,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.9,0,1,missed,2014-12-03,MIA,ATL,0,2
+Shot Chart Detail,0021400267,304,2547,Chris Bosh,1610612748,Miami Heat,3,7,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,-24.2,-0.8,1,made,2014-12-03,MIA,ATL,1,3
+Shot Chart Detail,0021400267,353,2547,Chris Bosh,1610612748,Miami Heat,3,2,14,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-6.1,15.6,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400267,394,2547,Chris Bosh,1610612748,Miami Heat,4,10,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,0.6,1,missed,2014-12-03,MIA,ATL,0,2
+Shot Chart Detail,0021400267,399,2547,Chris Bosh,1610612748,Miami Heat,4,9,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400267,411,2547,Chris Bosh,1610612748,Miami Heat,4,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-18.9,16.4,1,made,2014-12-03,MIA,ATL,1,3
+Shot Chart Detail,0021400267,459,2547,Chris Bosh,1610612748,Miami Heat,4,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,1.9,1,made,2014-12-03,MIA,ATL,1,2
+Shot Chart Detail,0021400285,12,2547,Chris Bosh,1610612748,Miami Heat,1,10,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.6,0,1,missed,2014-12-05,MIL,MIA,0,3
+Shot Chart Detail,0021400285,33,2547,Chris Bosh,1610612748,Miami Heat,1,8,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-12.4,10.1,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,41,2547,Chris Bosh,1610612748,Miami Heat,1,7,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.5,0.7,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,46,2547,Chris Bosh,1610612748,Miami Heat,1,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,-8.6,6.4,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,91,2547,Chris Bosh,1610612748,Miami Heat,1,3,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,15.3,21.6,1,missed,2014-12-05,MIL,MIA,0,3
+Shot Chart Detail,0021400285,120,2547,Chris Bosh,1610612748,Miami Heat,1,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.5,0.7,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,128,2547,Chris Bosh,1610612748,Miami Heat,1,0,0,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,134,2547,Chris Bosh,1610612748,Miami Heat,2,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.8,0,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,141,2547,Chris Bosh,1610612748,Miami Heat,2,11,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-20.6,15.3,1,made,2014-12-05,MIL,MIA,1,3
+Shot Chart Detail,0021400285,214,2547,Chris Bosh,1610612748,Miami Heat,2,2,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-10.6,15.6,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,258,2547,Chris Bosh,1610612748,Miami Heat,3,11,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-0.4,2,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,260,2547,Chris Bosh,1610612748,Miami Heat,3,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0.4,14,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,262,2547,Chris Bosh,1610612748,Miami Heat,3,10,45,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,0.7,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,272,2547,Chris Bosh,1610612748,Miami Heat,3,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,0.3,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,275,2547,Chris Bosh,1610612748,Miami Heat,3,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,17.7,8.2,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,328,2547,Chris Bosh,1610612748,Miami Heat,3,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.7,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,345,2547,Chris Bosh,1610612748,Miami Heat,3,1,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14,-0.6,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,351,2547,Chris Bosh,1610612748,Miami Heat,3,1,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,-13.5,23.1,1,missed,2014-12-05,MIL,MIA,0,3
+Shot Chart Detail,0021400285,366,2547,Chris Bosh,1610612748,Miami Heat,3,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,3.4,27.1,1,missed,2014-12-05,MIL,MIA,0,3
+Shot Chart Detail,0021400285,382,2547,Chris Bosh,1610612748,Miami Heat,4,11,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-4.7,17.3,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400285,386,2547,Chris Bosh,1610612748,Miami Heat,4,10,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2.9,25.8,1,missed,2014-12-05,MIL,MIA,0,3
+Shot Chart Detail,0021400285,424,2547,Chris Bosh,1610612748,Miami Heat,4,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-6.5,16,1,made,2014-12-05,MIL,MIA,1,2
+Shot Chart Detail,0021400285,454,2547,Chris Bosh,1610612748,Miami Heat,4,3,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.2,0.3,1,missed,2014-12-05,MIL,MIA,0,2
+Shot Chart Detail,0021400296,20,2547,Chris Bosh,1610612748,Miami Heat,1,8,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,5.7,12.3,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400296,30,2547,Chris Bosh,1610612748,Miami Heat,1,7,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-12-07,MEM,MIA,1,2
+Shot Chart Detail,0021400296,58,2547,Chris Bosh,1610612748,Miami Heat,1,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,10.6,11.2,1,made,2014-12-07,MEM,MIA,1,2
+Shot Chart Detail,0021400296,159,2547,Chris Bosh,1610612748,Miami Heat,2,5,8,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.4,0.7,1,made,2014-12-07,MEM,MIA,1,2
+Shot Chart Detail,0021400296,171,2547,Chris Bosh,1610612748,Miami Heat,2,3,22,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-11.4,3,1,made,2014-12-07,MEM,MIA,1,2
+Shot Chart Detail,0021400296,209,2547,Chris Bosh,1610612748,Miami Heat,3,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-14.1,9.6,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400296,226,2547,Chris Bosh,1610612748,Miami Heat,3,8,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.1,0,1,missed,2014-12-07,MEM,MIA,0,3
+Shot Chart Detail,0021400296,241,2547,Chris Bosh,1610612748,Miami Heat,3,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-14.4,14.2,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400296,250,2547,Chris Bosh,1610612748,Miami Heat,3,5,7,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3.6,5,1,made,2014-12-07,MEM,MIA,1,2
+Shot Chart Detail,0021400296,279,2547,Chris Bosh,1610612748,Miami Heat,3,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-6.5,15.6,1,made,2014-12-07,MEM,MIA,1,2
+Shot Chart Detail,0021400296,342,2547,Chris Bosh,1610612748,Miami Heat,4,6,49,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,-5.8,9.1,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400296,364,2547,Chris Bosh,1610612748,Miami Heat,4,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-11.3,15.4,1,missed,2014-12-07,MEM,MIA,0,2
+Shot Chart Detail,0021400313,10,2547,Chris Bosh,1610612748,Miami Heat,1,10,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.5,1.1,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,22,2547,Chris Bosh,1610612748,Miami Heat,1,8,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,38,2547,Chris Bosh,1610612748,Miami Heat,1,7,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.8,-0.3,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,53,2547,Chris Bosh,1610612748,Miami Heat,1,5,4,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4.7,3.7,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,68,2547,Chris Bosh,1610612748,Miami Heat,1,3,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3.7,1.4,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,159,2547,Chris Bosh,1610612748,Miami Heat,2,5,5,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.6,0,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,183,2547,Chris Bosh,1610612748,Miami Heat,2,3,18,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3.9,8.9,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,189,2547,Chris Bosh,1610612748,Miami Heat,2,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,7.8,14.2,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,237,2547,Chris Bosh,1610612748,Miami Heat,3,11,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,-7.3,3.7,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,240,2547,Chris Bosh,1610612748,Miami Heat,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4.8,24.6,1,made,2014-12-09,PHX,MIA,1,3
+Shot Chart Detail,0021400313,283,2547,Chris Bosh,1610612748,Miami Heat,3,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-11.8,8.9,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,293,2547,Chris Bosh,1610612748,Miami Heat,3,4,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.2,-1.6,1,missed,2014-12-09,PHX,MIA,0,3
+Shot Chart Detail,0021400313,310,2547,Chris Bosh,1610612748,Miami Heat,3,3,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.8,0.1,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,315,2547,Chris Bosh,1610612748,Miami Heat,3,2,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4.8,19,1,missed,2014-12-09,PHX,MIA,0,2
+Shot Chart Detail,0021400313,326,2547,Chris Bosh,1610612748,Miami Heat,3,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7.2,0.9,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,328,2547,Chris Bosh,1610612748,Miami Heat,3,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-10.2,22.8,1,made,2014-12-09,PHX,MIA,1,3
+Shot Chart Detail,0021400313,332,2547,Chris Bosh,1610612748,Miami Heat,3,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-8.8,23.5,1,missed,2014-12-09,PHX,MIA,0,3
+Shot Chart Detail,0021400313,352,2547,Chris Bosh,1610612748,Miami Heat,4,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-7.8,23.8,1,made,2014-12-09,PHX,MIA,1,3
+Shot Chart Detail,0021400313,417,2547,Chris Bosh,1610612748,Miami Heat,4,2,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,6,12.3,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,420,2547,Chris Bosh,1610612748,Miami Heat,4,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.6,0.9,1,made,2014-12-09,PHX,MIA,1,2
+Shot Chart Detail,0021400313,423,2547,Chris Bosh,1610612748,Miami Heat,4,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,20.1,14.9,1,made,2014-12-09,PHX,MIA,1,3
+Shot Chart Detail,0021400325,6,2547,Chris Bosh,1610612748,Miami Heat,1,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19.8,-1.3,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400325,37,2547,Chris Bosh,1610612748,Miami Heat,1,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-8.6,12.9,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400325,46,2547,Chris Bosh,1610612748,Miami Heat,1,5,52,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0.7,16.8,1,made,2014-12-10,DEN,MIA,1,2
+Shot Chart Detail,0021400325,52,2547,Chris Bosh,1610612748,Miami Heat,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-2,23.9,1,made,2014-12-10,DEN,MIA,1,3
+Shot Chart Detail,0021400325,195,2547,Chris Bosh,1610612748,Miami Heat,2,4,59,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.3,1.1,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400325,220,2547,Chris Bosh,1610612748,Miami Heat,2,2,13,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-16.6,3.7,1,made,2014-12-10,DEN,MIA,1,2
+Shot Chart Detail,0021400325,247,2547,Chris Bosh,1610612748,Miami Heat,2,0,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,4.2,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400325,257,2547,Chris Bosh,1610612748,Miami Heat,3,11,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2.1,24.6,1,missed,2014-12-10,DEN,MIA,0,3
+Shot Chart Detail,0021400325,290,2547,Chris Bosh,1610612748,Miami Heat,3,8,32,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.4,0,1,made,2014-12-10,DEN,MIA,1,2
+Shot Chart Detail,0021400325,293,2547,Chris Bosh,1610612748,Miami Heat,3,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-16.5,9.3,1,missed,2014-12-10,DEN,MIA,0,2
+Shot Chart Detail,0021400325,305,2547,Chris Bosh,1610612748,Miami Heat,3,7,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,10,22.2,1,missed,2014-12-10,DEN,MIA,0,3
+Shot Chart Detail,0021400325,353,2547,Chris Bosh,1610612748,Miami Heat,3,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-16.3,10.1,1,made,2014-12-10,DEN,MIA,1,2
+Shot Chart Detail,0021400338,2,2547,Chris Bosh,1610612748,Miami Heat,1,11,40,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-4.2,9.3,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,21,2547,Chris Bosh,1610612748,Miami Heat,1,8,23,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,1.1,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,84,2547,Chris Bosh,1610612748,Miami Heat,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-8.6,14.3,1,missed,2014-12-12,UTA,MIA,0,2
+Shot Chart Detail,0021400338,138,2547,Chris Bosh,1610612748,Miami Heat,2,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,-8.6,-0.5,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,159,2547,Chris Bosh,1610612748,Miami Heat,2,7,20,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-0.9,7.4,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,206,2547,Chris Bosh,1610612748,Miami Heat,2,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,5.1,19.2,1,missed,2014-12-12,UTA,MIA,0,2
+Shot Chart Detail,0021400338,270,2547,Chris Bosh,1610612748,Miami Heat,3,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,-13.3,2.2,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,272,2547,Chris Bosh,1610612748,Miami Heat,3,6,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23,6,1,missed,2014-12-12,UTA,MIA,0,3
+Shot Chart Detail,0021400338,283,2547,Chris Bosh,1610612748,Miami Heat,3,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,9.2,17.6,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,312,2547,Chris Bosh,1610612748,Miami Heat,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-7,23.3,1,made,2014-12-12,UTA,MIA,1,3
+Shot Chart Detail,0021400338,319,2547,Chris Bosh,1610612748,Miami Heat,3,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,15.5,13.2,1,missed,2014-12-12,UTA,MIA,0,2
+Shot Chart Detail,0021400338,331,2547,Chris Bosh,1610612748,Miami Heat,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,10.1,23,1,missed,2014-12-12,UTA,MIA,0,3
+Shot Chart Detail,0021400338,346,2547,Chris Bosh,1610612748,Miami Heat,4,11,43,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1.3,3,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400338,353,2547,Chris Bosh,1610612748,Miami Heat,4,10,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-9.5,23.1,1,missed,2014-12-12,UTA,MIA,0,3
+Shot Chart Detail,0021400338,446,2547,Chris Bosh,1610612748,Miami Heat,4,1,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-8.8,22.5,1,missed,2014-12-12,UTA,MIA,0,3
+Shot Chart Detail,0021400338,450,2547,Chris Bosh,1610612748,Miami Heat,4,0,58,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16,0.9,1,made,2014-12-12,UTA,MIA,1,2
+Shot Chart Detail,0021400462,3,2547,Chris Bosh,1610612748,Miami Heat,1,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-12.4,16,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,8,2547,Chris Bosh,1610612748,Miami Heat,1,10,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-9.1,16,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,16,2547,Chris Bosh,1610612748,Miami Heat,1,9,48,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5.6,1.5,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,36,2547,Chris Bosh,1610612748,Miami Heat,1,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,19.3,2.5,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,53,2547,Chris Bosh,1610612748,Miami Heat,1,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,13.1,5.8,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,56,2547,Chris Bosh,1610612748,Miami Heat,1,4,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,7.5,11.3,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,68,2547,Chris Bosh,1610612748,Miami Heat,1,4,23,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0.6,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,122,2547,Chris Bosh,1610612748,Miami Heat,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,16.1,11.9,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,159,2547,Chris Bosh,1610612748,Miami Heat,2,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-11.1,4.7,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,162,2547,Chris Bosh,1610612748,Miami Heat,2,8,14,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-11.6,3,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,169,2547,Chris Bosh,1610612748,Miami Heat,2,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-12.5,20.6,1,missed,2014-12-29,MIA,ORL,0,3
+Shot Chart Detail,0021400462,237,2547,Chris Bosh,1610612748,Miami Heat,3,11,20,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-8.3,4.4,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,256,2547,Chris Bosh,1610612748,Miami Heat,3,8,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,7.3,13.8,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,285,2547,Chris Bosh,1610612748,Miami Heat,3,5,21,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4.3,2.8,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,300,2547,Chris Bosh,1610612748,Miami Heat,3,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19.8,0.4,1,made,2014-12-29,MIA,ORL,1,2
+Shot Chart Detail,0021400462,348,2547,Chris Bosh,1610612748,Miami Heat,4,11,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5.8,0.3,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400462,374,2547,Chris Bosh,1610612748,Miami Heat,4,9,12,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,-7.5,9.1,1,missed,2014-12-29,MIA,ORL,0,2
+Shot Chart Detail,0021400476,74,2547,Chris Bosh,1610612748,Miami Heat,1,4,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.1,-1.3,1,missed,2014-12-31,IND,MIA,0,2
+Shot Chart Detail,0021400476,145,2547,Chris Bosh,1610612748,Miami Heat,2,9,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0.9,1,missed,2014-12-31,IND,MIA,0,2
+Shot Chart Detail,0021400476,171,2547,Chris Bosh,1610612748,Miami Heat,2,5,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6.7,3.4,1,made,2014-12-31,IND,MIA,1,2
+Shot Chart Detail,0021400476,190,2547,Chris Bosh,1610612748,Miami Heat,2,4,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,-24.1,-0.5,1,missed,2014-12-31,IND,MIA,0,3
+Shot Chart Detail,0021400476,194,2547,Chris Bosh,1610612748,Miami Heat,2,3,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-10.6,9.9,1,made,2014-12-31,IND,MIA,1,2
+Shot Chart Detail,0021400476,250,2547,Chris Bosh,1610612748,Miami Heat,2,0,0,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4.2,2.5,1,made,2014-12-31,IND,MIA,1,2
+Shot Chart Detail,0021400476,269,2547,Chris Bosh,1610612748,Miami Heat,3,9,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,13.1,13.7,1,missed,2014-12-31,IND,MIA,0,2
+Shot Chart Detail,0021400476,276,2547,Chris Bosh,1610612748,Miami Heat,3,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-11.8,15.4,1,made,2014-12-31,IND,MIA,1,2
+Shot Chart Detail,0021400476,296,2547,Chris Bosh,1610612748,Miami Heat,3,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,15.2,11.6,1,made,2014-12-31,IND,MIA,1,2
+Shot Chart Detail,0021400476,306,2547,Chris Bosh,1610612748,Miami Heat,3,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-15.9,0,1,missed,2014-12-31,IND,MIA,0,2
+Shot Chart Detail,0021400476,316,2547,Chris Bosh,1610612748,Miami Heat,3,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-6.7,26.3,1,missed,2014-12-31,IND,MIA,0,3
+Shot Chart Detail,0021400476,461,2547,Chris Bosh,1610612748,Miami Heat,4,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-5.4,25.5,1,made,2014-12-31,IND,MIA,1,3
+Shot Chart Detail,0021400476,480,2547,Chris Bosh,1610612748,Miami Heat,4,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-15.4,3.4,1,missed,2014-12-31,IND,MIA,0,2
+Shot Chart Detail,0021400476,483,2547,Chris Bosh,1610612748,Miami Heat,4,2,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,14.6,24.2,1,made,2014-12-31,IND,MIA,1,3
+Shot Chart Detail,0021400497,14,2547,Chris Bosh,1610612748,Miami Heat,1,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,11.2,22,1,missed,2015-01-03,HOU,MIA,0,3
+Shot Chart Detail,0021400497,37,2547,Chris Bosh,1610612748,Miami Heat,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,-15.1,14.6,1,made,2015-01-03,HOU,MIA,1,2
+Shot Chart Detail,0021400497,104,2547,Chris Bosh,1610612748,Miami Heat,1,2,5,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,-6.2,8,1,made,2015-01-03,HOU,MIA,1,2
+Shot Chart Detail,0021400497,146,2547,Chris Bosh,1610612748,Miami Heat,2,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,9.3,13.8,1,missed,2015-01-03,HOU,MIA,0,2
+Shot Chart Detail,0021400497,188,2547,Chris Bosh,1610612748,Miami Heat,2,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,18.6,1,missed,2015-01-03,HOU,MIA,0,2
+Shot Chart Detail,0021400497,231,2547,Chris Bosh,1610612748,Miami Heat,2,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0.6,1,made,2015-01-03,HOU,MIA,1,2
+Shot Chart Detail,0021400497,240,2547,Chris Bosh,1610612748,Miami Heat,2,1,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,16,18.7,1,missed,2015-01-03,HOU,MIA,0,3
+Shot Chart Detail,0021400497,278,2547,Chris Bosh,1610612748,Miami Heat,2,0,45,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-11.4,0.4,1,missed,2015-01-03,HOU,MIA,0,2
+Shot Chart Detail,0021400497,294,2547,Chris Bosh,1610612748,Miami Heat,3,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,12.7,13.2,1,missed,2015-01-03,HOU,MIA,0,2
+Shot Chart Detail,0021400497,322,2547,Chris Bosh,1610612748,Miami Heat,3,9,15,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.8,1.1,1,missed,2015-01-03,HOU,MIA,0,2
+Shot Chart Detail,0021400497,359,2547,Chris Bosh,1610612748,Miami Heat,3,5,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-0.1,26.1,1,missed,2015-01-03,HOU,MIA,0,3
+Shot Chart Detail,0021400497,388,2547,Chris Bosh,1610612748,Miami Heat,3,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,9.8,23,1,made,2015-01-03,HOU,MIA,1,3
+Shot Chart Detail,0021400505,21,2547,Chris Bosh,1610612748,Miami Heat,1,9,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.8,1.1,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,29,2547,Chris Bosh,1610612748,Miami Heat,1,7,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,23.2,0,1,made,2015-01-04,MIA,BKN,1,3
+Shot Chart Detail,0021400505,122,2547,Chris Bosh,1610612748,Miami Heat,1,0,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.1,-0.8,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,167,2547,Chris Bosh,1610612748,Miami Heat,2,8,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-11.6,3.6,1,missed,2015-01-04,MIA,BKN,0,2
+Shot Chart Detail,0021400505,234,2547,Chris Bosh,1610612748,Miami Heat,2,3,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.7,2,1,made,2015-01-04,MIA,BKN,1,3
+Shot Chart Detail,0021400505,258,2547,Chris Bosh,1610612748,Miami Heat,2,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,12.8,0.4,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,285,2547,Chris Bosh,1610612748,Miami Heat,3,10,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.5,0.9,1,missed,2015-01-04,MIA,BKN,0,2
+Shot Chart Detail,0021400505,289,2547,Chris Bosh,1610612748,Miami Heat,3,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-10,15.3,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,312,2547,Chris Bosh,1610612748,Miami Heat,3,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,-6.2,8.2,1,missed,2015-01-04,MIA,BKN,0,2
+Shot Chart Detail,0021400505,359,2547,Chris Bosh,1610612748,Miami Heat,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,20.4,12.4,1,made,2015-01-04,MIA,BKN,1,3
+Shot Chart Detail,0021400505,386,2547,Chris Bosh,1610612748,Miami Heat,4,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-14.9,10.2,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,398,2547,Chris Bosh,1610612748,Miami Heat,4,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0.2,14.9,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,414,2547,Chris Bosh,1610612748,Miami Heat,4,8,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.3,0.4,1,made,2015-01-04,MIA,BKN,1,2
+Shot Chart Detail,0021400505,420,2547,Chris Bosh,1610612748,Miami Heat,4,6,57,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-14,6.3,1,missed,2015-01-04,MIA,BKN,0,2
+Shot Chart Detail,0021400505,442,2547,Chris Bosh,1610612748,Miami Heat,4,4,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-8.1,23.6,1,missed,2015-01-04,MIA,BKN,0,3
+Shot Chart Detail,0021400505,473,2547,Chris Bosh,1610612748,Miami Heat,4,1,15,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,8.9,8,1,missed,2015-01-04,MIA,BKN,0,2
+Shot Chart Detail,0021400537,5,2547,Chris Bosh,1610612748,Miami Heat,1,11,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,9.3,1.9,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,23,2547,Chris Bosh,1610612748,Miami Heat,1,8,29,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-9.4,15.6,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,44,2547,Chris Bosh,1610612748,Miami Heat,1,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,15.5,1.1,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,93,2547,Chris Bosh,1610612748,Miami Heat,1,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-1.2,24.9,1,made,2015-01-08,POR,MIA,1,3
+Shot Chart Detail,0021400537,98,2547,Chris Bosh,1610612748,Miami Heat,1,1,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-14.9,2,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,100,2547,Chris Bosh,1610612748,Miami Heat,1,0,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,0.7,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,106,2547,Chris Bosh,1610612748,Miami Heat,1,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.7,3.7,1,made,2015-01-08,POR,MIA,1,2
+Shot Chart Detail,0021400537,139,2547,Chris Bosh,1610612748,Miami Heat,2,9,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-0.1,2.3,1,made,2015-01-08,POR,MIA,1,2
+Shot Chart Detail,0021400537,200,2547,Chris Bosh,1610612748,Miami Heat,2,3,52,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-12.5,8.2,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,213,2547,Chris Bosh,1610612748,Miami Heat,2,3,15,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7.5,1.4,1,made,2015-01-08,POR,MIA,1,2
+Shot Chart Detail,0021400537,218,2547,Chris Bosh,1610612748,Miami Heat,2,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-17.4,17,1,missed,2015-01-08,POR,MIA,0,3
+Shot Chart Detail,0021400537,283,2547,Chris Bosh,1610612748,Miami Heat,3,7,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4.5,14.6,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,292,2547,Chris Bosh,1610612748,Miami Heat,3,6,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,-22.5,0,1,missed,2015-01-08,POR,MIA,0,3
+Shot Chart Detail,0021400537,384,2547,Chris Bosh,1610612748,Miami Heat,4,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-12.1,21.1,1,made,2015-01-08,POR,MIA,1,3
+Shot Chart Detail,0021400537,387,2547,Chris Bosh,1610612748,Miami Heat,4,10,21,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.1,-0.2,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400537,442,2547,Chris Bosh,1610612748,Miami Heat,4,5,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,10.1,17,1,missed,2015-01-08,POR,MIA,0,2
+Shot Chart Detail,0021400559,26,2547,Chris Bosh,1610612748,Miami Heat,1,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-12.7,9.7,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,38,2547,Chris Bosh,1610612748,Miami Heat,1,7,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.1,2,1,missed,2015-01-11,LAC,MIA,0,3
+Shot Chart Detail,0021400559,66,2547,Chris Bosh,1610612748,Miami Heat,1,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-8.1,17.2,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,74,2547,Chris Bosh,1610612748,Miami Heat,1,4,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,11.7,4.4,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,90,2547,Chris Bosh,1610612748,Miami Heat,1,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3.5,25,1,made,2015-01-11,LAC,MIA,1,3
+Shot Chart Detail,0021400559,114,2547,Chris Bosh,1610612748,Miami Heat,1,0,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-0.4,26.1,1,missed,2015-01-11,LAC,MIA,0,3
+Shot Chart Detail,0021400559,122,2547,Chris Bosh,1610612748,Miami Heat,1,0,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-7.7,13.7,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,216,2547,Chris Bosh,1610612748,Miami Heat,2,3,53,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1.2,4.5,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,222,2547,Chris Bosh,1610612748,Miami Heat,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,13.1,1.1,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,228,2547,Chris Bosh,1610612748,Miami Heat,2,1,51,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,13,-0.5,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,246,2547,Chris Bosh,1610612748,Miami Heat,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,15.2,6.3,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,268,2547,Chris Bosh,1610612748,Miami Heat,3,9,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,-5.8,5.8,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,281,2547,Chris Bosh,1610612748,Miami Heat,3,8,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.9,1.7,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,283,2547,Chris Bosh,1610612748,Miami Heat,3,8,17,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.4,0.8,1,missed,2015-01-11,LAC,MIA,0,2
+Shot Chart Detail,0021400559,306,2547,Chris Bosh,1610612748,Miami Heat,3,7,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,327,2547,Chris Bosh,1610612748,Miami Heat,3,4,46,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,-11.1,7.5,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,354,2547,Chris Bosh,1610612748,Miami Heat,3,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0.3,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,371,2547,Chris Bosh,1610612748,Miami Heat,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-14.9,20.6,1,missed,2015-01-11,LAC,MIA,0,3
+Shot Chart Detail,0021400559,443,2547,Chris Bosh,1610612748,Miami Heat,4,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-12.2,12.1,1,made,2015-01-11,LAC,MIA,1,2
+Shot Chart Detail,0021400559,492,2547,Chris Bosh,1610612748,Miami Heat,4,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1.3,25.2,1,made,2015-01-11,LAC,MIA,1,3
+Shot Chart Detail,0021400573,6,2547,Chris Bosh,1610612748,Miami Heat,1,11,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,7.8,10.4,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,22,2547,Chris Bosh,1610612748,Miami Heat,1,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0.4,1,made,2015-01-13,LAL,MIA,1,2
+Shot Chart Detail,0021400573,28,2547,Chris Bosh,1610612748,Miami Heat,1,8,20,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,-7.8,4.7,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,63,2547,Chris Bosh,1610612748,Miami Heat,1,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-8.6,23.1,1,missed,2015-01-13,LAL,MIA,0,3
+Shot Chart Detail,0021400573,83,2547,Chris Bosh,1610612748,Miami Heat,1,3,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-11.4,5.3,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,95,2547,Chris Bosh,1610612748,Miami Heat,1,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,0.9,1,made,2015-01-13,LAL,MIA,1,2
+Shot Chart Detail,0021400573,104,2547,Chris Bosh,1610612748,Miami Heat,1,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-13.2,6.9,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,236,2547,Chris Bosh,1610612748,Miami Heat,2,3,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-13,LAL,MIA,1,2
+Shot Chart Detail,0021400573,239,2547,Chris Bosh,1610612748,Miami Heat,2,2,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-1.7,24.4,1,missed,2015-01-13,LAL,MIA,0,3
+Shot Chart Detail,0021400573,262,2547,Chris Bosh,1610612748,Miami Heat,2,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,8.6,14.6,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,313,2547,Chris Bosh,1610612748,Miami Heat,3,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,12.5,12.1,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,402,2547,Chris Bosh,1610612748,Miami Heat,4,11,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-14,15.1,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,437,2547,Chris Bosh,1610612748,Miami Heat,4,8,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,14.6,19.8,1,missed,2015-01-13,LAL,MIA,0,3
+Shot Chart Detail,0021400573,441,2547,Chris Bosh,1610612748,Miami Heat,4,7,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-2.1,24.4,1,missed,2015-01-13,LAL,MIA,0,3
+Shot Chart Detail,0021400573,456,2547,Chris Bosh,1610612748,Miami Heat,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,11.7,3.4,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,460,2547,Chris Bosh,1610612748,Miami Heat,4,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.3,0.4,1,missed,2015-01-13,LAL,MIA,0,2
+Shot Chart Detail,0021400573,506,2547,Chris Bosh,1610612748,Miami Heat,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4.3,14.8,1,made,2015-01-13,LAL,MIA,1,2
+Shot Chart Detail,0021400582,4,2547,Chris Bosh,1610612748,Miami Heat,1,11,7,Missed Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,11.9,2.3,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,11,2547,Chris Bosh,1610612748,Miami Heat,1,10,5,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,6.7,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,24,2547,Chris Bosh,1610612748,Miami Heat,1,8,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1.6,24.7,1,made,2015-01-14,GSW,MIA,1,3
+Shot Chart Detail,0021400582,32,2547,Chris Bosh,1610612748,Miami Heat,1,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1.5,1.4,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,33,2547,Chris Bosh,1610612748,Miami Heat,1,7,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-14,GSW,MIA,1,2
+Shot Chart Detail,0021400582,91,2547,Chris Bosh,1610612748,Miami Heat,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-11.9,13.2,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,97,2547,Chris Bosh,1610612748,Miami Heat,1,1,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2.6,4.7,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,111,2547,Chris Bosh,1610612748,Miami Heat,1,0,6,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4.5,11.3,1,made,2015-01-14,GSW,MIA,1,2
+Shot Chart Detail,0021400582,123,2547,Chris Bosh,1610612748,Miami Heat,2,9,50,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,11.2,1.4,1,made,2015-01-14,GSW,MIA,1,2
+Shot Chart Detail,0021400582,128,2547,Chris Bosh,1610612748,Miami Heat,2,9,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-8,25.2,1,made,2015-01-14,GSW,MIA,1,3
+Shot Chart Detail,0021400582,136,2547,Chris Bosh,1610612748,Miami Heat,2,8,12,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-12.9,11.9,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,194,2547,Chris Bosh,1610612748,Miami Heat,2,2,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-12.7,12.9,1,made,2015-01-14,GSW,MIA,1,2
+Shot Chart Detail,0021400582,263,2547,Chris Bosh,1610612748,Miami Heat,3,7,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3.4,15.9,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,294,2547,Chris Bosh,1610612748,Miami Heat,3,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,18.8,18.9,1,missed,2015-01-14,GSW,MIA,0,3
+Shot Chart Detail,0021400582,429,2547,Chris Bosh,1610612748,Miami Heat,4,5,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,8.1,26.1,1,missed,2015-01-14,GSW,MIA,0,3
+Shot Chart Detail,0021400582,442,2547,Chris Bosh,1610612748,Miami Heat,4,4,23,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,6.5,10.4,1,made,2015-01-14,GSW,MIA,1,2
+Shot Chart Detail,0021400582,449,2547,Chris Bosh,1610612748,Miami Heat,4,3,55,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,12.2,1.4,1,missed,2015-01-14,GSW,MIA,0,2
+Shot Chart Detail,0021400582,453,2547,Chris Bosh,1610612748,Miami Heat,4,3,22,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-14,GSW,MIA,1,2
+Shot Chart Detail,0021400598,5,2547,Chris Bosh,1610612748,Miami Heat,1,10,50,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,12.5,10.1,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,8,2547,Chris Bosh,1610612748,Miami Heat,1,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,16.8,3.6,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,17,2547,Chris Bosh,1610612748,Miami Heat,1,9,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,16.4,2.2,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,23,2547,Chris Bosh,1610612748,Miami Heat,1,9,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,127,2547,Chris Bosh,1610612748,Miami Heat,1,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-8.3,16.2,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,156,2547,Chris Bosh,1610612748,Miami Heat,2,10,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,-13.8,2,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,191,2547,Chris Bosh,1610612748,Miami Heat,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-12.4,16.7,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,199,2547,Chris Bosh,1610612748,Miami Heat,2,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,15.2,5.2,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,212,2547,Chris Bosh,1610612748,Miami Heat,2,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-10.6,22.7,1,made,2015-01-16,SAC,MIA,1,3
+Shot Chart Detail,0021400598,223,2547,Chris Bosh,1610612748,Miami Heat,2,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,-17.4,11.9,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,264,2547,Chris Bosh,1610612748,Miami Heat,2,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,16,19.7,1,made,2015-01-16,SAC,MIA,1,3
+Shot Chart Detail,0021400598,287,2547,Chris Bosh,1610612748,Miami Heat,3,10,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-4.8,24.2,1,made,2015-01-16,SAC,MIA,1,3
+Shot Chart Detail,0021400598,305,2547,Chris Bosh,1610612748,Miami Heat,3,7,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5.1,4.5,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,308,2547,Chris Bosh,1610612748,Miami Heat,3,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0.1,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,319,2547,Chris Bosh,1610612748,Miami Heat,3,6,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.8,0.7,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,389,2547,Chris Bosh,1610612748,Miami Heat,4,9,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1.9,14.9,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,401,2547,Chris Bosh,1610612748,Miami Heat,4,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.9,0.3,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,409,2547,Chris Bosh,1610612748,Miami Heat,4,8,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.9,0.6,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400598,414,2547,Chris Bosh,1610612748,Miami Heat,4,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,-19.5,6,1,missed,2015-01-16,SAC,MIA,0,2
+Shot Chart Detail,0021400598,451,2547,Chris Bosh,1610612748,Miami Heat,4,3,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.6,0.3,1,made,2015-01-16,SAC,MIA,1,2
+Shot Chart Detail,0021400623,32,2547,Chris Bosh,1610612748,Miami Heat,1,7,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.2,1.9,1,made,2015-01-20,MIA,OKC,1,2
+Shot Chart Detail,0021400623,85,2547,Chris Bosh,1610612748,Miami Heat,1,3,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-18.2,17.2,1,missed,2015-01-20,MIA,OKC,0,3
+Shot Chart Detail,0021400623,119,2547,Chris Bosh,1610612748,Miami Heat,1,1,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-20,MIA,OKC,1,2
+Shot Chart Detail,0021400623,136,2547,Chris Bosh,1610612748,Miami Heat,2,11,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4.5,3.4,1,missed,2015-01-20,MIA,OKC,0,2
+Shot Chart Detail,0021400623,157,2547,Chris Bosh,1610612748,Miami Heat,2,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,12.2,21.3,1,made,2015-01-20,MIA,OKC,1,3
+Shot Chart Detail,0021400623,214,2547,Chris Bosh,1610612748,Miami Heat,2,3,52,Missed Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-8.9,1.7,1,missed,2015-01-20,MIA,OKC,0,2
+Shot Chart Detail,0021400623,233,2547,Chris Bosh,1610612748,Miami Heat,2,2,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.5,0.7,1,made,2015-01-20,MIA,OKC,1,2
+Shot Chart Detail,0021400623,253,2547,Chris Bosh,1610612748,Miami Heat,2,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4.3,14.5,1,missed,2015-01-20,MIA,OKC,0,2
+Shot Chart Detail,0021400623,293,2547,Chris Bosh,1610612748,Miami Heat,3,8,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-11,22.5,1,missed,2015-01-20,MIA,OKC,0,3
+Shot Chart Detail,0021400623,308,2547,Chris Bosh,1610612748,Miami Heat,3,7,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.5,1.2,1,missed,2015-01-20,MIA,OKC,0,2
+Shot Chart Detail,0021400623,320,2547,Chris Bosh,1610612748,Miami Heat,3,6,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-20,MIA,OKC,1,2
+Shot Chart Detail,0021400623,390,2547,Chris Bosh,1610612748,Miami Heat,3,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-11.8,16.5,1,missed,2015-01-20,MIA,OKC,0,2
+Shot Chart Detail,0021400625,9,2547,Chris Bosh,1610612748,Miami Heat,1,10,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,15.2,6.3,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,30,2547,Chris Bosh,1610612748,Miami Heat,1,9,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.2,1.2,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,75,2547,Chris Bosh,1610612748,Miami Heat,1,5,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,12.3,2.2,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,84,2547,Chris Bosh,1610612748,Miami Heat,1,4,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,8.9,24.4,1,missed,2015-01-21,CHA,MIA,0,3
+Shot Chart Detail,0021400625,140,2547,Chris Bosh,1610612748,Miami Heat,2,11,22,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-0.6,3,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,157,2547,Chris Bosh,1610612748,Miami Heat,2,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,17.9,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400625,182,2547,Chris Bosh,1610612748,Miami Heat,2,7,59,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16,1.5,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400625,186,2547,Chris Bosh,1610612748,Miami Heat,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7.1,24.7,1,missed,2015-01-21,CHA,MIA,0,3
+Shot Chart Detail,0021400625,259,2547,Chris Bosh,1610612748,Miami Heat,2,0,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,8.5,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,288,2547,Chris Bosh,1610612748,Miami Heat,3,9,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,6,8.2,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,292,2547,Chris Bosh,1610612748,Miami Heat,3,9,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,-13,23.1,1,missed,2015-01-21,CHA,MIA,0,3
+Shot Chart Detail,0021400625,295,2547,Chris Bosh,1610612748,Miami Heat,3,8,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.9,0.3,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400625,330,2547,Chris Bosh,1610612748,Miami Heat,3,5,56,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-9.7,7.4,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,341,2547,Chris Bosh,1610612748,Miami Heat,3,4,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.7,0.6,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400625,448,2547,Chris Bosh,1610612748,Miami Heat,4,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3.7,17.2,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400625,465,2547,Chris Bosh,1610612748,Miami Heat,4,4,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.6,0.3,1,missed,2015-01-21,CHA,MIA,0,2
+Shot Chart Detail,0021400625,470,2547,Chris Bosh,1610612748,Miami Heat,4,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5.9,24.6,1,made,2015-01-21,CHA,MIA,1,3
+Shot Chart Detail,0021400625,505,2547,Chris Bosh,1610612748,Miami Heat,4,0,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-3.1,25.7,1,missed,2015-01-21,CHA,MIA,0,3
+Shot Chart Detail,0021400625,525,2547,Chris Bosh,1610612748,Miami Heat,4,0,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.6,0.4,1,made,2015-01-21,CHA,MIA,1,2
+Shot Chart Detail,0021400625,541,2547,Chris Bosh,1610612748,Miami Heat,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-0.2,26.1,1,missed,2015-01-21,CHA,MIA,0,3
+Shot Chart Detail,0021400644,10,2547,Chris Bosh,1610612748,Miami Heat,1,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,20.2,13.2,1,missed,2015-01-23,MIA,IND,0,3
+Shot Chart Detail,0021400644,38,2547,Chris Bosh,1610612748,Miami Heat,1,7,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.5,2.8,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,47,2547,Chris Bosh,1610612748,Miami Heat,1,7,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,14.1,20.1,1,missed,2015-01-23,MIA,IND,0,3
+Shot Chart Detail,0021400644,50,2547,Chris Bosh,1610612748,Miami Heat,1,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.3,0.1,1,missed,2015-01-23,MIA,IND,0,2
+Shot Chart Detail,0021400644,60,2547,Chris Bosh,1610612748,Miami Heat,1,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,6.8,12.6,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,157,2547,Chris Bosh,1610612748,Miami Heat,2,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-2.8,18.7,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,164,2547,Chris Bosh,1610612748,Miami Heat,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.4,1.9,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,170,2547,Chris Bosh,1610612748,Miami Heat,2,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.1,0.4,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,173,2547,Chris Bosh,1610612748,Miami Heat,2,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,0.6,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,205,2547,Chris Bosh,1610612748,Miami Heat,2,4,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,9.5,22.8,1,missed,2015-01-23,MIA,IND,0,3
+Shot Chart Detail,0021400644,282,2547,Chris Bosh,1610612748,Miami Heat,3,8,53,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3.7,4.7,1,missed,2015-01-23,MIA,IND,0,2
+Shot Chart Detail,0021400644,349,2547,Chris Bosh,1610612748,Miami Heat,3,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-0.6,14.9,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400644,403,2547,Chris Bosh,1610612748,Miami Heat,4,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-17.7,8.9,1,missed,2015-01-23,MIA,IND,0,2
+Shot Chart Detail,0021400644,410,2547,Chris Bosh,1610612748,Miami Heat,4,8,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19.3,2.2,1,missed,2015-01-23,MIA,IND,0,2
+Shot Chart Detail,0021400644,424,2547,Chris Bosh,1610612748,Miami Heat,4,8,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-9.9,22.5,1,missed,2015-01-23,MIA,IND,0,3
+Shot Chart Detail,0021400644,491,2547,Chris Bosh,1610612748,Miami Heat,4,2,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-9.5,2.8,1,made,2015-01-23,MIA,IND,1,2
+Shot Chart Detail,0021400657,12,2547,Chris Bosh,1610612748,Miami Heat,1,10,35,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0.7,1.7,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400657,17,2547,Chris Bosh,1610612748,Miami Heat,1,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0.4,15.6,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400657,22,2547,Chris Bosh,1610612748,Miami Heat,1,9,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,-11.8,18.9,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400657,35,2547,Chris Bosh,1610612748,Miami Heat,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.3,0.9,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,38,2547,Chris Bosh,1610612748,Miami Heat,1,6,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,5.4,11.2,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400657,43,2547,Chris Bosh,1610612748,Miami Heat,1,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-10.8,14.8,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,56,2547,Chris Bosh,1610612748,Miami Heat,1,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-13.3,6.6,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,72,2547,Chris Bosh,1610612748,Miami Heat,1,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,4.6,20.5,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400657,81,2547,Chris Bosh,1610612748,Miami Heat,1,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-11.3,14,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,169,2547,Chris Bosh,1610612748,Miami Heat,2,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-16.5,19,1,missed,2015-01-25,CHI,MIA,0,3
+Shot Chart Detail,0021400657,199,2547,Chris Bosh,1610612748,Miami Heat,2,4,3,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1.7,0.7,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,254,2547,Chris Bosh,1610612748,Miami Heat,3,11,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5.3,5.3,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,279,2547,Chris Bosh,1610612748,Miami Heat,3,8,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,297,2547,Chris Bosh,1610612748,Miami Heat,3,5,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-16.3,19.4,1,missed,2015-01-25,CHI,MIA,0,3
+Shot Chart Detail,0021400657,316,2547,Chris Bosh,1610612748,Miami Heat,3,4,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6.5,24.7,1,missed,2015-01-25,CHI,MIA,0,3
+Shot Chart Detail,0021400657,340,2547,Chris Bosh,1610612748,Miami Heat,3,1,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-8.9,8.8,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,343,2547,Chris Bosh,1610612748,Miami Heat,3,0,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,6.5,18.9,1,made,2015-01-25,CHI,MIA,1,2
+Shot Chart Detail,0021400657,452,2547,Chris Bosh,1610612748,Miami Heat,4,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,4.3,25.8,1,missed,2015-01-25,CHI,MIA,0,3
+Shot Chart Detail,0021400657,470,2547,Chris Bosh,1610612748,Miami Heat,4,2,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4.7,14.9,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400657,482,2547,Chris Bosh,1610612748,Miami Heat,4,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,5.7,16.2,1,missed,2015-01-25,CHI,MIA,0,2
+Shot Chart Detail,0021400677,19,2547,Chris Bosh,1610612748,Miami Heat,1,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,12.2,16.8,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,21,2547,Chris Bosh,1610612748,Miami Heat,1,8,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,-7.6,6.1,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,40,2547,Chris Bosh,1610612748,Miami Heat,1,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-1,13.5,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,64,2547,Chris Bosh,1610612748,Miami Heat,1,2,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,5.1,23.8,1,missed,2015-01-27,MIA,MIL,0,3
+Shot Chart Detail,0021400677,68,2547,Chris Bosh,1610612748,Miami Heat,1,2,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,-13.5,8,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,71,2547,Chris Bosh,1610612748,Miami Heat,1,1,39,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.6,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,148,2547,Chris Bosh,1610612748,Miami Heat,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,15.5,1.2,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,230,2547,Chris Bosh,1610612748,Miami Heat,2,1,8,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-14.1,12.1,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,238,2547,Chris Bosh,1610612748,Miami Heat,2,0,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-0.1,11.6,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,277,2547,Chris Bosh,1610612748,Miami Heat,3,8,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,-18.4,0.1,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,283,2547,Chris Bosh,1610612748,Miami Heat,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,14.9,19.5,1,made,2015-01-27,MIA,MIL,1,3
+Shot Chart Detail,0021400677,293,2547,Chris Bosh,1610612748,Miami Heat,3,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-9.2,15.1,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,316,2547,Chris Bosh,1610612748,Miami Heat,3,4,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,-20.3,-0.5,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,323,2547,Chris Bosh,1610612748,Miami Heat,3,3,6,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-14.3,12.4,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,418,2547,Chris Bosh,1610612748,Miami Heat,4,7,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-16.5,20,1,missed,2015-01-27,MIA,MIL,0,3
+Shot Chart Detail,0021400677,435,2547,Chris Bosh,1610612748,Miami Heat,4,6,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-17.6,3,1,made,2015-01-27,MIA,MIL,1,2
+Shot Chart Detail,0021400677,455,2547,Chris Bosh,1610612748,Miami Heat,4,3,46,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,10.3,1.5,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,462,2547,Chris Bosh,1610612748,Miami Heat,4,3,20,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1.3,6.1,1,missed,2015-01-27,MIA,MIL,0,2
+Shot Chart Detail,0021400677,466,2547,Chris Bosh,1610612748,Miami Heat,4,2,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,16.8,18.3,1,made,2015-01-27,MIA,MIL,1,3
+Shot Chart Detail,0021400702,21,2547,Chris Bosh,1610612748,Miami Heat,1,9,15,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-13.8,11.8,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,32,2547,Chris Bosh,1610612748,Miami Heat,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-9.7,14.5,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,58,2547,Chris Bosh,1610612748,Miami Heat,1,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,-16.2,0.1,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,145,2547,Chris Bosh,1610612748,Miami Heat,2,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-12.1,0,1,made,2015-01-30,MIA,DAL,1,2
+Shot Chart Detail,0021400702,161,2547,Chris Bosh,1610612748,Miami Heat,2,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,17.4,19.2,1,missed,2015-01-30,MIA,DAL,0,3
+Shot Chart Detail,0021400702,171,2547,Chris Bosh,1610612748,Miami Heat,2,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,-10,1.2,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,176,2547,Chris Bosh,1610612748,Miami Heat,2,8,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3.2,0.7,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,180,2547,Chris Bosh,1610612748,Miami Heat,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-10.3,14.2,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,198,2547,Chris Bosh,1610612748,Miami Heat,2,7,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4.3,11.6,1,made,2015-01-30,MIA,DAL,1,2
+Shot Chart Detail,0021400702,275,2547,Chris Bosh,1610612748,Miami Heat,2,0,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,11.9,22,1,made,2015-01-30,MIA,DAL,1,3
+Shot Chart Detail,0021400702,295,2547,Chris Bosh,1610612748,Miami Heat,3,11,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-17.9,18.1,1,missed,2015-01-30,MIA,DAL,0,3
+Shot Chart Detail,0021400702,300,2547,Chris Bosh,1610612748,Miami Heat,3,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-8.3,14.8,1,made,2015-01-30,MIA,DAL,1,2
+Shot Chart Detail,0021400702,315,2547,Chris Bosh,1610612748,Miami Heat,3,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,10,15.6,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,326,2547,Chris Bosh,1610612748,Miami Heat,3,7,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,-8.6,0,1,made,2015-01-30,MIA,DAL,1,2
+Shot Chart Detail,0021400702,434,2547,Chris Bosh,1610612748,Miami Heat,4,9,45,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4.7,5,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,443,2547,Chris Bosh,1610612748,Miami Heat,4,8,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-20.3,15.3,1,missed,2015-01-30,MIA,DAL,0,3
+Shot Chart Detail,0021400702,460,2547,Chris Bosh,1610612748,Miami Heat,4,7,35,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3.2,2.5,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400702,475,2547,Chris Bosh,1610612748,Miami Heat,4,5,50,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4.2,3.4,1,missed,2015-01-30,MIA,DAL,0,2
+Shot Chart Detail,0021400716,21,2547,Chris Bosh,1610612748,Miami Heat,1,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,10,15.9,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,26,2547,Chris Bosh,1610612748,Miami Heat,1,8,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,4.9,6.4,1,made,2015-02-01,BOS,MIA,1,2
+Shot Chart Detail,0021400716,29,2547,Chris Bosh,1610612748,Miami Heat,1,8,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7.5,1.4,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,40,2547,Chris Bosh,1610612748,Miami Heat,1,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0.7,18.9,1,made,2015-02-01,BOS,MIA,1,2
+Shot Chart Detail,0021400716,108,2547,Chris Bosh,1610612748,Miami Heat,1,2,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-13.5,10.7,1,made,2015-02-01,BOS,MIA,1,2
+Shot Chart Detail,0021400716,146,2547,Chris Bosh,1610612748,Miami Heat,2,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-7.7,23.3,1,missed,2015-02-01,BOS,MIA,0,3
+Shot Chart Detail,0021400716,150,2547,Chris Bosh,1610612748,Miami Heat,2,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,14.2,1.9,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,155,2547,Chris Bosh,1610612748,Miami Heat,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6.1,3.7,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,162,2547,Chris Bosh,1610612748,Miami Heat,2,8,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-10.3,23,1,missed,2015-02-01,BOS,MIA,0,3
+Shot Chart Detail,0021400716,214,2547,Chris Bosh,1610612748,Miami Heat,2,3,45,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,-10.5,3.1,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,221,2547,Chris Bosh,1610612748,Miami Heat,2,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,2.9,13.4,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,230,2547,Chris Bosh,1610612748,Miami Heat,2,1,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23,2.8,1,made,2015-02-01,BOS,MIA,1,3
+Shot Chart Detail,0021400716,239,2547,Chris Bosh,1610612748,Miami Heat,2,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-12.2,17,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,255,2547,Chris Bosh,1610612748,Miami Heat,3,11,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0.2,13.8,1,made,2015-02-01,BOS,MIA,1,2
+Shot Chart Detail,0021400716,275,2547,Chris Bosh,1610612748,Miami Heat,3,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-9.4,13.1,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,292,2547,Chris Bosh,1610612748,Miami Heat,3,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4.3,16.2,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,379,2547,Chris Bosh,1610612748,Miami Heat,4,10,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,4.5,16.8,1,missed,2015-02-01,BOS,MIA,0,2
+Shot Chart Detail,0021400716,395,2547,Chris Bosh,1610612748,Miami Heat,4,9,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0.2,0.4,1,made,2015-02-01,BOS,MIA,1,2
+Shot Chart Detail,0021400716,409,2547,Chris Bosh,1610612748,Miami Heat,4,7,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,12.3,22.2,1,missed,2015-02-01,BOS,MIA,0,3
+Shot Chart Detail,0021400727,16,2547,Chris Bosh,1610612748,Miami Heat,1,10,24,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-10.3,6.4,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,19,2547,Chris Bosh,1610612748,Miami Heat,1,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,9.7,12.9,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,36,2547,Chris Bosh,1610612748,Miami Heat,1,7,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,22.6,2.2,1,made,2015-02-03,DET,MIA,1,3
+Shot Chart Detail,0021400727,41,2547,Chris Bosh,1610612748,Miami Heat,1,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,-16.3,6.1,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,64,2547,Chris Bosh,1610612748,Miami Heat,1,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,16.6,3.1,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,66,2547,Chris Bosh,1610612748,Miami Heat,1,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-13.6,6.1,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,69,2547,Chris Bosh,1610612748,Miami Heat,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,17.7,2.8,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,74,2547,Chris Bosh,1610612748,Miami Heat,1,3,47,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,-8.4,0.7,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,125,2547,Chris Bosh,1610612748,Miami Heat,2,11,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3.1,8.8,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,131,2547,Chris Bosh,1610612748,Miami Heat,2,10,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,8.7,25.5,1,missed,2015-02-03,DET,MIA,0,3
+Shot Chart Detail,0021400727,138,2547,Chris Bosh,1610612748,Miami Heat,2,9,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-22.8,10.2,1,made,2015-02-03,DET,MIA,1,3
+Shot Chart Detail,0021400727,190,2547,Chris Bosh,1610612748,Miami Heat,2,5,11,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-13.8,2.8,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,239,2547,Chris Bosh,1610612748,Miami Heat,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-12.4,7.2,1,missed,2015-02-03,DET,MIA,0,2
+Shot Chart Detail,0021400727,252,2547,Chris Bosh,1610612748,Miami Heat,3,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-17.7,8,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,260,2547,Chris Bosh,1610612748,Miami Heat,3,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,12.7,6,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,262,2547,Chris Bosh,1610612748,Miami Heat,3,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,8.1,12.6,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,267,2547,Chris Bosh,1610612748,Miami Heat,3,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-22.5,12.6,1,made,2015-02-03,DET,MIA,1,3
+Shot Chart Detail,0021400727,275,2547,Chris Bosh,1610612748,Miami Heat,3,6,53,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2.6,5,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,279,2547,Chris Bosh,1610612748,Miami Heat,3,6,19,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-11.6,2.3,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,286,2547,Chris Bosh,1610612748,Miami Heat,3,5,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,-7.7,7.8,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,313,2547,Chris Bosh,1610612748,Miami Heat,3,2,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.1,0.9,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,320,2547,Chris Bosh,1610612748,Miami Heat,3,2,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-9.2,0.7,1,made,2015-02-03,DET,MIA,1,2
+Shot Chart Detail,0021400727,404,2547,Chris Bosh,1610612748,Miami Heat,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6.4,26,1,missed,2015-02-03,DET,MIA,0,3
+Shot Chart Detail,0021400737,16,2547,Chris Bosh,1610612748,Miami Heat,1,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-9.7,17.8,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,29,2547,Chris Bosh,1610612748,Miami Heat,1,8,21,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0.1,1,made,2015-02-04,MIN,MIA,1,2
+Shot Chart Detail,0021400737,93,2547,Chris Bosh,1610612748,Miami Heat,1,1,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.9,1.5,1,made,2015-02-04,MIN,MIA,1,2
+Shot Chart Detail,0021400737,109,2547,Chris Bosh,1610612748,Miami Heat,1,0,1,Missed Shot,Pullup Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5.2,3.4,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,115,2547,Chris Bosh,1610612748,Miami Heat,2,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,-8.9,18.7,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,148,2547,Chris Bosh,1610612748,Miami Heat,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,8.4,23.5,1,missed,2015-02-04,MIN,MIA,0,3
+Shot Chart Detail,0021400737,165,2547,Chris Bosh,1610612748,Miami Heat,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7.8,1.5,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,245,2547,Chris Bosh,1610612748,Miami Heat,2,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,9.8,17.6,1,made,2015-02-04,MIN,MIA,1,2
+Shot Chart Detail,0021400737,251,2547,Chris Bosh,1610612748,Miami Heat,2,0,23,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,13.4,3,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,253,2547,Chris Bosh,1610612748,Miami Heat,2,0,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,22.9,3.9,1,missed,2015-02-04,MIN,MIA,0,3
+Shot Chart Detail,0021400737,265,2547,Chris Bosh,1610612748,Miami Heat,3,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,12.7,2.5,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,388,2547,Chris Bosh,1610612748,Miami Heat,4,11,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1.2,11.5,1,missed,2015-02-04,MIN,MIA,0,2
+Shot Chart Detail,0021400737,396,2547,Chris Bosh,1610612748,Miami Heat,4,10,34,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-7.7,15.4,1,made,2015-02-04,MIN,MIA,1,2
+Shot Chart Detail,0021400737,495,2547,Chris Bosh,1610612748,Miami Heat,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-13,14.3,1,made,2015-02-04,MIN,MIA,1,2
+Shot Chart Detail,0021400757,6,2547,Chris Bosh,1610612748,Miami Heat,1,11,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-11.1,11.9,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,16,2547,Chris Bosh,1610612748,Miami Heat,1,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,5.9,15.3,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,31,2547,Chris Bosh,1610612748,Miami Heat,1,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,9,1.5,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,184,2547,Chris Bosh,1610612748,Miami Heat,2,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,3.5,18.1,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,208,2547,Chris Bosh,1610612748,Miami Heat,3,11,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-11.4,21.9,1,missed,2015-02-06,SAS,MIA,0,3
+Shot Chart Detail,0021400757,212,2547,Chris Bosh,1610612748,Miami Heat,3,10,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,-13.6,2,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,234,2547,Chris Bosh,1610612748,Miami Heat,3,8,56,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,14.6,9.3,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,282,2547,Chris Bosh,1610612748,Miami Heat,3,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,13.3,1.1,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,291,2547,Chris Bosh,1610612748,Miami Heat,3,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,5.7,16.5,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,311,2547,Chris Bosh,1610612748,Miami Heat,3,0,51,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-0.2,-0.3,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,315,2547,Chris Bosh,1610612748,Miami Heat,3,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-13.3,14.6,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,317,2547,Chris Bosh,1610612748,Miami Heat,3,0,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7.3,0.3,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,325,2547,Chris Bosh,1610612748,Miami Heat,4,11,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,12.2,8.2,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,331,2547,Chris Bosh,1610612748,Miami Heat,4,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,11.7,15.7,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,341,2547,Chris Bosh,1610612748,Miami Heat,4,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1.1,2.2,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,371,2547,Chris Bosh,1610612748,Miami Heat,4,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-6.4,17.2,1,made,2015-02-06,SAS,MIA,1,2
+Shot Chart Detail,0021400757,382,2547,Chris Bosh,1610612748,Miami Heat,4,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,14.9,4.4,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400757,387,2547,Chris Bosh,1610612748,Miami Heat,4,4,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1.5,0.6,1,missed,2015-02-06,SAS,MIA,0,2
+Shot Chart Detail,0021400777,3,2547,Chris Bosh,1610612748,Miami Heat,1,11,24,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,-6.1,5.2,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,21,2547,Chris Bosh,1610612748,Miami Heat,1,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,17.1,17.5,1,made,2015-02-09,MIA,NYK,1,3
+Shot Chart Detail,0021400777,28,2547,Chris Bosh,1610612748,Miami Heat,1,7,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.9,0.7,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,43,2547,Chris Bosh,1610612748,Miami Heat,1,6,17,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,-8.1,8,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,66,2547,Chris Bosh,1610612748,Miami Heat,1,4,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-0.1,8.6,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,72,2547,Chris Bosh,1610612748,Miami Heat,1,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-11.1,22.5,1,missed,2015-02-09,MIA,NYK,0,3
+Shot Chart Detail,0021400777,134,2547,Chris Bosh,1610612748,Miami Heat,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,-19,-0.8,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,140,2547,Chris Bosh,1610612748,Miami Heat,2,10,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.3,1.1,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,156,2547,Chris Bosh,1610612748,Miami Heat,2,8,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,12.2,21.9,1,made,2015-02-09,MIA,NYK,1,3
+Shot Chart Detail,0021400777,167,2547,Chris Bosh,1610612748,Miami Heat,2,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,6,16.5,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,169,2547,Chris Bosh,1610612748,Miami Heat,2,7,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,0.3,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,180,2547,Chris Bosh,1610612748,Miami Heat,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-1.3,18.6,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,271,2547,Chris Bosh,1610612748,Miami Heat,2,0,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,-14.3,0.1,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,284,2547,Chris Bosh,1610612748,Miami Heat,3,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-13.3,20.9,1,missed,2015-02-09,MIA,NYK,0,3
+Shot Chart Detail,0021400777,313,2547,Chris Bosh,1610612748,Miami Heat,3,9,3,Missed Shot,Driving Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,-8.6,3,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,324,2547,Chris Bosh,1610612748,Miami Heat,3,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,-9.1,16.8,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,423,2547,Chris Bosh,1610612748,Miami Heat,4,11,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2.3,0.7,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,429,2547,Chris Bosh,1610612748,Miami Heat,4,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,16,10.7,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400777,432,2547,Chris Bosh,1610612748,Miami Heat,4,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,24.6,1,made,2015-02-09,MIA,NYK,1,3
+Shot Chart Detail,0021400777,442,2547,Chris Bosh,1610612748,Miami Heat,4,8,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-8.6,14.9,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,473,2547,Chris Bosh,1610612748,Miami Heat,4,5,17,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,-10.5,12.6,1,missed,2015-02-09,MIA,NYK,0,2
+Shot Chart Detail,0021400777,486,2547,Chris Bosh,1610612748,Miami Heat,4,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,-16,19.4,1,made,2015-02-09,MIA,NYK,1,3
+Shot Chart Detail,0021400777,488,2547,Chris Bosh,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,19.1,3.3,1,made,2015-02-09,MIA,NYK,1,2
+Shot Chart Detail,0021400796,2,2547,Chris Bosh,1610612748,Miami Heat,1,11,38,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1.5,3.4,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,11,2547,Chris Bosh,1610612748,Miami Heat,1,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,10.8,16.5,1,made,2015-02-11,CLE,MIA,1,2
+Shot Chart Detail,0021400796,42,2547,Chris Bosh,1610612748,Miami Heat,1,6,1,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5.9,3.1,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,53,2547,Chris Bosh,1610612748,Miami Heat,1,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,-8.3,16.4,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,72,2547,Chris Bosh,1610612748,Miami Heat,1,3,6,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4.3,3.9,1,made,2015-02-11,CLE,MIA,1,2
+Shot Chart Detail,0021400796,95,2547,Chris Bosh,1610612748,Miami Heat,1,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,8.2,16.8,1,made,2015-02-11,CLE,MIA,1,2
+Shot Chart Detail,0021400796,128,2547,Chris Bosh,1610612748,Miami Heat,2,9,27,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3.2,10.8,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,167,2547,Chris Bosh,1610612748,Miami Heat,2,6,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,24.9,1,missed,2015-02-11,CLE,MIA,0,3
+Shot Chart Detail,0021400796,234,2547,Chris Bosh,1610612748,Miami Heat,2,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,-12.7,12.7,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,259,2547,Chris Bosh,1610612748,Miami Heat,2,0,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-0.1,1.5,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,268,2547,Chris Bosh,1610612748,Miami Heat,3,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6.2,14.6,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,298,2547,Chris Bosh,1610612748,Miami Heat,3,9,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,-12.2,21.3,1,missed,2015-02-11,CLE,MIA,0,3
+Shot Chart Detail,0021400796,324,2547,Chris Bosh,1610612748,Miami Heat,3,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,14.7,20,1,missed,2015-02-11,CLE,MIA,0,3
+Shot Chart Detail,0021400796,331,2547,Chris Bosh,1610612748,Miami Heat,3,5,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,-23.4,-0.2,1,made,2015-02-11,CLE,MIA,1,3
+Shot Chart Detail,0021400796,354,2547,Chris Bosh,1610612748,Miami Heat,3,2,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,-10.5,6.1,1,missed,2015-02-11,CLE,MIA,0,2
+Shot Chart Detail,0021400796,366,2547,Chris Bosh,1610612748,Miami Heat,3,1,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,-7.8,11.9,1,made,2015-02-11,CLE,MIA,1,2
+Shot Chart Detail,0021400796,442,2547,Chris Bosh,1610612748,Miami Heat,4,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,-8.4,6.9,1,missed,2015-02-11,CLE,MIA,0,2

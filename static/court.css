@@ -1,0 +1,42 @@
+
+#loadingWidget{
+  text-align:center;
+  position:fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#vizPanel {
+  display: none;
+  position:fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.offender{
+  fill: green
+}
+
+.defender{
+  fill: red
+}
+
+.playersPath{
+  stroke: black;
+  fill: none;
+  stroke-width: 1px;
+}
+
+.offenderBasketPath{
+  stroke: orange;
+  fill: none;
+  stroke-width: 1px;
+}
+
+.courtLines{
+  stroke: black;
+  stroke-width: 0.125%; /*width of court lines relative to diagonal of court length by court length square*/
+  fill: none;
+} 
